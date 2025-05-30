@@ -1,52 +1,83 @@
-# Byte-compiled / optimized / DLL files
+# ----------------------------
+# Python Bytecode and Cache
+# ----------------------------
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
+*.pyd
 *.so
 
-# Distribution / packaging
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+.env/
+.env.*
+*.env.local
+
+# ----------------------------
+# Jupyter Notebooks
+# ----------------------------
+.ipynb_checkpoints/
+*.ipynb
+
+# ----------------------------
+# Logs and Runtime Files
+# ----------------------------
+*.log
+*.sqlite3
+*.pid
+*.sock
+*.tmp
+*.bak
+*.swp
+
+# ----------------------------
+# IDE/Editor Files
+# ----------------------------
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Build and Distribution
+# ----------------------------
 build/
 dist/
 *.egg-info/
 
-# Virtual environments
-venv/
-.env/
-.env.*
+# ----------------------------
+# ML/DL Model Files
+# ----------------------------
+*.h5
+*.hdf5
+*.ckpt
+*.tflite
+*.pb
+*.pt
+*.pth
+*.onnx
+checkpoints/
+events.out.tfevents.*
 
-# Jupyter Notebook
-.ipynb_checkpoints/
+# ----------------------------
+# Docker (if using)
+# ----------------------------
+*.tar
+docker-compose.override.yml
 
-# Pytest cache
-.pytest_cache/
-
-# VSCode
-.vscode/
-
-# Logs and local files
-*.log
-*.sqlite3
-
-# MacOS
-.DS_Store
-
-# Windows
-Thumbs.db
-
-# Model files (optional, if you don't want to version them)
-# Comment this out if you DO want to push your trained models
-# backend/models/*.pkl
-
-# MongoDB dump (if used)
+# ----------------------------
+# MongoDB Dumps
+# ----------------------------
 dump/
 
-# Ignore personal notebooks
-*.ipynb
-
-# Ignore uploads (if any)
+# ----------------------------
+# Uploads (if any)
+# ----------------------------
 uploads/
 
-# Ignore compiled output
-*.pyd
+# ----------------------------
+# Custom: Keep only specific models or notebooks
+# ----------------------------
+# !backend/models/final_model.h5
+# !notebooks/important_experiment.ipynb
