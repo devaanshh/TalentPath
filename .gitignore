@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# Logs and local files
+*.log
+*.sqlite3
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Model files (optional, if you don't want to version them)
+# Comment this out if you DO want to push your trained models
+# backend/models/*.pkl
+
+# MongoDB dump (if used)
+dump/
+
+# Ignore personal notebooks
+*.ipynb
+
+# Ignore uploads (if any)
+uploads/
+
+# Ignore compiled output
+*.pyd

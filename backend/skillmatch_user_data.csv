@@ -1,0 +1,2001 @@
+StudentID,Skills,Interests,Availability,PreferredProjectType,SuggestedProject
+S0001,"Figma, Django",Healthcare,Full-time,Research,E-learning Gamification Platform
+S0002,"Django, Flask, Python",Climate,Full-time,Technical,AI-powered Diet Planner
+S0003,"TensorFlow, Django",Cybersecurity,Part-time,Technical,Smart Attendance System
+S0004,"TensorFlow, Django, NodeJS, React",Automation,Full-time,Research,Finance Tracker Web App
+S0005,"ML, Django, Java, Keras",Cybersecurity,Full-time,Creative,Smart Attendance System
+S0006,"Flask, Java, AI",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S0007,"Keras, Django, Java",Education,Full-time,Research,Chatbot for Students
+S0008,"Figma, Keras",Cybersecurity,Full-time,Research,Smart Attendance System
+S0009,"Java, Python, JavaScript",Finance,Full-time,Creative,Automated Resume Screener
+S0010,"Django, TensorFlow, JavaScript",Education,Part-time,Research,Voice-based Email Client
+S0011,"Django, NodeJS, JavaScript",Social Impact,Part-time,Research,Chatbot for Students
+S0012,"React, Java",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S0013,"AI, ML, Python",Finance,Full-time,Creative,Mental Health UI Toolkit
+S0014,"Python, ML, Figma",Healthcare,Full-time,Creative,Voice-based Email Client
+S0015,"C++, ML",Automation,Full-time,Creative,AI-powered Diet Planner
+S0016,"ML, NodeJS",Education,Part-time,Creative,Smart Attendance System
+S0017,"TensorFlow, AI",Automation,Part-time,Research,E-learning Gamification Platform
+S0018,"React, Flask",Automation,Full-time,Creative,Chatbot for Students
+S0019,"Python, JavaScript, Java",Automation,Full-time,Creative,Blockchain Voting System
+S0020,"NodeJS, TensorFlow, Django",Climate,Full-time,Research,Mental Health UI Toolkit
+S0021,"C++, Java, Keras, Python",Automation,Full-time,Research,Chatbot for Students
+S0022,"ML, Figma",Climate,Full-time,Technical,AI-powered Diet Planner
+S0023,"Keras, JavaScript, Django, NodeJS",Cybersecurity,Part-time,Creative,Smart Attendance System
+S0024,"React, AI, Python, Keras",Healthcare,Full-time,Technical,Chatbot for Students
+S0025,"Keras, Figma",Social Impact,Part-time,Technical,Finance Tracker Web App
+S0026,"ML, Keras",Cybersecurity,Full-time,Technical,Finance Tracker Web App
+S0027,"Flask, Django, C++",Climate,Part-time,Technical,Blockchain Voting System
+S0028,"JavaScript, C++",Finance,Full-time,Technical,Mental Health UI Toolkit
+S0029,"Figma, ML, Python, Java",Education,Full-time,Technical,Automated Resume Screener
+S0030,"React, Figma, C++",Education,Full-time,Research,Finance Tracker Web App
+S0031,"Keras, Python, Django, JavaScript",Automation,Part-time,Technical,Voice-based Email Client
+S0032,"AI, JavaScript, Flask",Finance,Part-time,Creative,AI-powered Diet Planner
+S0033,"Python, TensorFlow",Social Impact,Part-time,Creative,Voice-based Email Client
+S0034,"JavaScript, NodeJS, Django",Automation,Part-time,Research,AI-powered Diet Planner
+S0035,"TensorFlow, NodeJS",Automation,Part-time,Research,AI-powered Diet Planner
+S0036,"Keras, Django, React",Automation,Part-time,Research,AI-powered Diet Planner
+S0037,"Python, Flask, Java",Cybersecurity,Full-time,Technical,Mental Health UI Toolkit
+S0038,"NodeJS, TensorFlow, AI, Django",Automation,Full-time,Research,Smart Attendance System
+S0039,"NodeJS, Django",Automation,Full-time,Creative,Chatbot for Students
+S0040,"Java, Figma, AI",Healthcare,Full-time,Research,Automated Resume Screener
+S0041,"Python, React, JavaScript, Figma",Cybersecurity,Full-time,Research,AI-powered Diet Planner
+S0042,"Figma, Django, C++, JavaScript",Cybersecurity,Part-time,Creative,Finance Tracker Web App
+S0043,"Django, Python, ML, React",Healthcare,Full-time,Research,Finance Tracker Web App
+S0044,"C++, React, TensorFlow, Flask",Healthcare,Full-time,Creative,Automated Resume Screener
+S0045,"TensorFlow, C++, Java, ML",Automation,Part-time,Creative,Mental Health UI Toolkit
+S0046,"Keras, NodeJS, AI",Social Impact,Full-time,Technical,Mental Health UI Toolkit
+S0047,"Figma, JavaScript",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S0048,"Keras, Python",Climate,Full-time,Creative,Voice-based Email Client
+S0049,"Keras, AI",Education,Part-time,Technical,E-learning Gamification Platform
+S0050,"Keras, Django, Figma",Education,Part-time,Creative,Blockchain Voting System
+S0051,"Python, Keras, TensorFlow, React",Education,Full-time,Technical,E-learning Gamification Platform
+S0052,"Figma, Django, JavaScript, Keras",Healthcare,Part-time,Creative,Chatbot for Students
+S0053,"NodeJS, Keras, Java, ML",Social Impact,Part-time,Technical,AI-powered Diet Planner
+S0054,"Keras, Django",Social Impact,Full-time,Creative,Voice-based Email Client
+S0055,"NodeJS, Java, AI",Cybersecurity,Part-time,Creative,AI-powered Diet Planner
+S0056,"Keras, AI",Education,Full-time,Technical,AI-powered Diet Planner
+S0057,"C++, Java, Keras",Healthcare,Full-time,Technical,Blockchain Voting System
+S0058,"NodeJS, Figma, AI",Finance,Part-time,Technical,Blockchain Voting System
+S0059,"AI, React, NodeJS",Finance,Full-time,Technical,Automated Resume Screener
+S0060,"TensorFlow, React, AI",Finance,Full-time,Research,Blockchain Voting System
+S0061,"Flask, Figma",Education,Part-time,Creative,AI-powered Diet Planner
+S0062,"React, Python",Climate,Full-time,Research,Blockchain Voting System
+S0063,"Java, Keras, AI, Figma",Climate,Full-time,Creative,Voice-based Email Client
+S0064,"JavaScript, ML, Java, C++",Automation,Full-time,Technical,Automated Resume Screener
+S0065,"Flask, NodeJS",Finance,Full-time,Research,Automated Resume Screener
+S0066,"Python, TensorFlow, Django, AI",Climate,Full-time,Creative,Voice-based Email Client
+S0067,"JavaScript, C++",Education,Part-time,Creative,Voice-based Email Client
+S0068,"Flask, NodeJS, TensorFlow, Keras",Social Impact,Full-time,Creative,Automated Resume Screener
+S0069,"React, C++, ML",Education,Full-time,Creative,Chatbot for Students
+S0070,"Keras, NodeJS, AI, JavaScript",Climate,Full-time,Technical,Smart Attendance System
+S0071,"TensorFlow, Django, JavaScript",Finance,Full-time,Technical,AI-powered Diet Planner
+S0072,"Keras, NodeJS, JavaScript, C++",Education,Part-time,Technical,Voice-based Email Client
+S0073,"React, Java, Python, Figma",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S0074,"Flask, ML, NodeJS",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S0075,"JavaScript, TensorFlow, C++",Automation,Part-time,Technical,Chatbot for Students
+S0076,"Keras, TensorFlow, C++, JavaScript",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S0077,"React, Python, TensorFlow, Django",Automation,Part-time,Research,Automated Resume Screener
+S0078,"TensorFlow, ML",Finance,Part-time,Creative,Automated Resume Screener
+S0079,"Keras, Flask, Java",Finance,Full-time,Research,AI-powered Diet Planner
+S0080,"AI, JavaScript",Healthcare,Part-time,Research,Voice-based Email Client
+S0081,"Python, ML",Climate,Part-time,Creative,Voice-based Email Client
+S0082,"ML, Python, Java, Django",Cybersecurity,Full-time,Creative,Finance Tracker Web App
+S0083,"Keras, Flask, Django",Finance,Part-time,Creative,Smart Attendance System
+S0084,"Figma, Python",Healthcare,Part-time,Research,Automated Resume Screener
+S0085,"Django, Python",Social Impact,Full-time,Research,Voice-based Email Client
+S0086,"Python, React, AI",Social Impact,Part-time,Technical,Chatbot for Students
+S0087,"AI, TensorFlow, Figma, JavaScript",Cybersecurity,Full-time,Research,Voice-based Email Client
+S0088,"Keras, AI",Cybersecurity,Part-time,Technical,Chatbot for Students
+S0089,"React, ML, Figma, Keras",Education,Full-time,Creative,Automated Resume Screener
+S0090,"Java, Python",Social Impact,Part-time,Research,Voice-based Email Client
+S0091,"JavaScript, TensorFlow, ML, AI",Finance,Part-time,Research,E-learning Gamification Platform
+S0092,"React, Django",Climate,Full-time,Research,Finance Tracker Web App
+S0093,"Python, Flask",Cybersecurity,Full-time,Creative,Blockchain Voting System
+S0094,"Flask, Django, Python, Java",Climate,Full-time,Creative,Chatbot for Students
+S0095,"NodeJS, Django",Education,Part-time,Technical,E-learning Gamification Platform
+S0096,"ML, Keras",Climate,Full-time,Research,Finance Tracker Web App
+S0097,"React, TensorFlow",Climate,Full-time,Research,Smart Attendance System
+S0098,"React, Java, AI, Flask",Finance,Full-time,Creative,E-learning Gamification Platform
+S0099,"Figma, ML",Social Impact,Full-time,Technical,Finance Tracker Web App
+S0100,"JavaScript, React",Education,Part-time,Creative,Finance Tracker Web App
+S0101,"TensorFlow, Flask, Python, AI",Finance,Full-time,Technical,AI-powered Diet Planner
+S0102,"Figma, Java, Django, ML",Climate,Full-time,Creative,Automated Resume Screener
+S0103,"Flask, Django",Finance,Part-time,Research,Automated Resume Screener
+S0104,"TensorFlow, Python, ML, Flask",Finance,Full-time,Technical,Finance Tracker Web App
+S0105,"JavaScript, NodeJS, Django",Finance,Part-time,Technical,Chatbot for Students
+S0106,"NodeJS, Figma",Cybersecurity,Part-time,Technical,Mental Health UI Toolkit
+S0107,"Django, Java, Python",Healthcare,Part-time,Technical,Voice-based Email Client
+S0108,"Figma, AI, Java, NodeJS",Finance,Part-time,Creative,Voice-based Email Client
+S0109,"C++, Java, Python",Healthcare,Full-time,Technical,Automated Resume Screener
+S0110,"NodeJS, TensorFlow, Django",Cybersecurity,Part-time,Creative,Mental Health UI Toolkit
+S0111,"ML, NodeJS, TensorFlow",Finance,Full-time,Creative,Automated Resume Screener
+S0112,"Keras, AI, Flask, Python",Climate,Part-time,Research,Finance Tracker Web App
+S0113,"Python, Figma, NodeJS",Social Impact,Full-time,Technical,Chatbot for Students
+S0114,"ML, Django",Education,Part-time,Creative,Voice-based Email Client
+S0115,"C++, Flask, TensorFlow",Education,Part-time,Technical,E-learning Gamification Platform
+S0116,"JavaScript, Python",Finance,Full-time,Technical,Automated Resume Screener
+S0117,"Keras, React, ML",Healthcare,Part-time,Creative,Automated Resume Screener
+S0118,"JavaScript, ML",Social Impact,Part-time,Research,Voice-based Email Client
+S0119,"Django, Figma, ML",Social Impact,Part-time,Research,Chatbot for Students
+S0120,"TensorFlow, Keras, Flask, ML",Finance,Full-time,Technical,Smart Attendance System
+S0121,"AI, Java",Climate,Full-time,Technical,Smart Attendance System
+S0122,"Django, ML, Python, JavaScript",Cybersecurity,Full-time,Creative,Mental Health UI Toolkit
+S0123,"TensorFlow, Flask",Healthcare,Part-time,Creative,Blockchain Voting System
+S0124,"ML, Flask",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S0125,"Flask, Java, React",Automation,Full-time,Creative,Chatbot for Students
+S0126,"Figma, Django, JavaScript, AI",Climate,Part-time,Creative,Smart Attendance System
+S0127,"JavaScript, TensorFlow",Climate,Part-time,Research,E-learning Gamification Platform
+S0128,"C++, Keras",Social Impact,Full-time,Creative,Blockchain Voting System
+S0129,"C++, Keras, Figma, ML",Automation,Full-time,Research,Voice-based Email Client
+S0130,"AI, Python",Climate,Full-time,Technical,Chatbot for Students
+S0131,"Figma, TensorFlow, Django",Automation,Full-time,Creative,Blockchain Voting System
+S0132,"Java, Figma",Cybersecurity,Part-time,Creative,Chatbot for Students
+S0133,"TensorFlow, AI, JavaScript",Social Impact,Part-time,Creative,Voice-based Email Client
+S0134,"Figma, JavaScript",Finance,Full-time,Research,E-learning Gamification Platform
+S0135,"Python, NodeJS",Healthcare,Part-time,Technical,E-learning Gamification Platform
+S0136,"C++, Keras, Flask",Automation,Full-time,Creative,E-learning Gamification Platform
+S0137,"Django, AI",Finance,Full-time,Technical,Chatbot for Students
+S0138,"JavaScript, C++, AI, Python",Education,Part-time,Creative,AI-powered Diet Planner
+S0139,"Django, AI, NodeJS",Finance,Part-time,Technical,Blockchain Voting System
+S0140,"TensorFlow, Django, Flask, AI",Finance,Full-time,Creative,Blockchain Voting System
+S0141,"ML, Python, Keras, Figma",Climate,Full-time,Technical,Blockchain Voting System
+S0142,"Java, Python, Keras",Automation,Part-time,Technical,Smart Attendance System
+S0143,"NodeJS, TensorFlow, Python, C++",Healthcare,Full-time,Creative,AI-powered Diet Planner
+S0144,"NodeJS, Flask, Java, ML",Automation,Part-time,Creative,Voice-based Email Client
+S0145,"C++, Flask, Figma",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S0146,"Flask, Keras, NodeJS, TensorFlow",Social Impact,Full-time,Technical,Finance Tracker Web App
+S0147,"Figma, Django",Cybersecurity,Part-time,Creative,AI-powered Diet Planner
+S0148,"Java, Keras, Flask, C++",Automation,Part-time,Research,Finance Tracker Web App
+S0149,"TensorFlow, Keras, AI, Java",Healthcare,Full-time,Creative,Chatbot for Students
+S0150,"Flask, Python, Django",Social Impact,Full-time,Creative,Finance Tracker Web App
+S0151,"Flask, NodeJS, Figma, Python",Climate,Full-time,Research,Blockchain Voting System
+S0152,"JavaScript, Python, Java, AI",Automation,Part-time,Research,Finance Tracker Web App
+S0153,"Figma, Flask, JavaScript, Keras",Education,Part-time,Technical,Automated Resume Screener
+S0154,"Figma, AI, Flask",Automation,Part-time,Technical,E-learning Gamification Platform
+S0155,"Keras, ML",Healthcare,Part-time,Research,Smart Attendance System
+S0156,"ML, React",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S0157,"TensorFlow, Django",Social Impact,Part-time,Creative,E-learning Gamification Platform
+S0158,"Python, JavaScript",Healthcare,Full-time,Technical,Smart Attendance System
+S0159,"JavaScript, TensorFlow",Cybersecurity,Part-time,Research,Automated Resume Screener
+S0160,"Django, JavaScript, ML, Java",Social Impact,Part-time,Research,Finance Tracker Web App
+S0161,"Keras, React, Figma, JavaScript",Education,Full-time,Technical,Smart Attendance System
+S0162,"AI, Python",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S0163,"JavaScript, TensorFlow, C++, React",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S0164,"Java, Django, Flask, AI",Healthcare,Full-time,Research,AI-powered Diet Planner
+S0165,"Keras, C++, Django, Java",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S0166,"Django, JavaScript, Figma",Education,Part-time,Research,Blockchain Voting System
+S0167,"Keras, Flask",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S0168,"React, Figma, AI, Keras",Social Impact,Full-time,Technical,Blockchain Voting System
+S0169,"Django, Python, TensorFlow",Climate,Part-time,Creative,Automated Resume Screener
+S0170,"JavaScript, TensorFlow, NodeJS",Finance,Part-time,Research,Smart Attendance System
+S0171,"Java, Figma",Education,Full-time,Technical,Automated Resume Screener
+S0172,"Java, Figma, React",Healthcare,Part-time,Technical,Automated Resume Screener
+S0173,"Java, TensorFlow, Python",Cybersecurity,Part-time,Technical,E-learning Gamification Platform
+S0174,"Python, Flask, AI, Figma",Education,Part-time,Research,E-learning Gamification Platform
+S0175,"Java, AI, Figma",Healthcare,Part-time,Technical,Voice-based Email Client
+S0176,"AI, Keras, React",Social Impact,Full-time,Technical,Mental Health UI Toolkit
+S0177,"Python, C++",Cybersecurity,Part-time,Research,Automated Resume Screener
+S0178,"C++, NodeJS, TensorFlow, Keras",Social Impact,Part-time,Creative,Voice-based Email Client
+S0179,"Keras, TensorFlow, Flask",Automation,Part-time,Research,Automated Resume Screener
+S0180,"JavaScript, AI",Automation,Part-time,Research,E-learning Gamification Platform
+S0181,"ML, Flask, React, Keras",Climate,Full-time,Technical,Voice-based Email Client
+S0182,"TensorFlow, NodeJS, JavaScript",Automation,Full-time,Technical,Smart Attendance System
+S0183,"NodeJS, Java, C++, ML",Education,Part-time,Creative,Voice-based Email Client
+S0184,"NodeJS, Python, Keras",Climate,Full-time,Creative,Chatbot for Students
+S0185,"Django, Python",Climate,Full-time,Creative,Voice-based Email Client
+S0186,"NodeJS, Java, JavaScript",Climate,Part-time,Technical,Smart Attendance System
+S0187,"Django, React, TensorFlow",Social Impact,Part-time,Technical,Voice-based Email Client
+S0188,"React, Django, Java",Automation,Part-time,Research,AI-powered Diet Planner
+S0189,"NodeJS, AI, Django",Climate,Full-time,Technical,Blockchain Voting System
+S0190,"NodeJS, Flask, JavaScript",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S0191,"Java, ML",Automation,Full-time,Creative,E-learning Gamification Platform
+S0192,"Figma, NodeJS, C++",Cybersecurity,Part-time,Technical,Chatbot for Students
+S0193,"C++, Python",Education,Part-time,Creative,Finance Tracker Web App
+S0194,"TensorFlow, ML",Healthcare,Full-time,Technical,Blockchain Voting System
+S0195,"Python, Flask",Cybersecurity,Part-time,Technical,Voice-based Email Client
+S0196,"JavaScript, Java",Finance,Part-time,Research,Mental Health UI Toolkit
+S0197,"AI, C++",Healthcare,Part-time,Technical,Automated Resume Screener
+S0198,"Flask, JavaScript, TensorFlow",Social Impact,Full-time,Research,Automated Resume Screener
+S0199,"TensorFlow, React, Figma, Python",Automation,Full-time,Technical,AI-powered Diet Planner
+S0200,"NodeJS, Django, ML",Automation,Part-time,Creative,AI-powered Diet Planner
+S0201,"NodeJS, TensorFlow",Cybersecurity,Full-time,Creative,Chatbot for Students
+S0202,"JavaScript, ML, NodeJS",Healthcare,Part-time,Research,Blockchain Voting System
+S0203,"TensorFlow, Django, Keras, Figma",Cybersecurity,Full-time,Creative,Smart Attendance System
+S0204,"ML, Python",Automation,Part-time,Technical,E-learning Gamification Platform
+S0205,"Django, JavaScript, TensorFlow",Automation,Part-time,Technical,AI-powered Diet Planner
+S0206,"TensorFlow, AI, Flask, NodeJS",Automation,Part-time,Technical,E-learning Gamification Platform
+S0207,"AI, Java, TensorFlow",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S0208,"AI, NodeJS, Java",Finance,Part-time,Technical,Mental Health UI Toolkit
+S0209,"TensorFlow, Flask, Java, ML",Social Impact,Full-time,Research,Blockchain Voting System
+S0210,"JavaScript, C++",Finance,Full-time,Research,Finance Tracker Web App
+S0211,"NodeJS, C++, Django, Java",Automation,Full-time,Creative,AI-powered Diet Planner
+S0212,"Python, ML",Automation,Part-time,Research,Chatbot for Students
+S0213,"Python, C++",Social Impact,Part-time,Research,Automated Resume Screener
+S0214,"Flask, AI, Django",Finance,Full-time,Creative,Finance Tracker Web App
+S0215,"Python, Java, AI",Education,Full-time,Creative,Automated Resume Screener
+S0216,"Flask, Figma, AI, C++",Healthcare,Full-time,Research,AI-powered Diet Planner
+S0217,"Keras, C++, Python, TensorFlow",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S0218,"Python, AI",Social Impact,Full-time,Technical,Automated Resume Screener
+S0219,"Keras, React",Climate,Part-time,Research,Blockchain Voting System
+S0220,"Keras, AI, Java",Climate,Part-time,Research,Voice-based Email Client
+S0221,"Flask, JavaScript",Social Impact,Part-time,Technical,E-learning Gamification Platform
+S0222,"NodeJS, AI, C++, Django",Automation,Part-time,Technical,AI-powered Diet Planner
+S0223,"C++, Keras",Social Impact,Part-time,Research,AI-powered Diet Planner
+S0224,"Django, Python, ML, NodeJS",Healthcare,Full-time,Research,Voice-based Email Client
+S0225,"AI, Flask, Java",Social Impact,Part-time,Creative,Voice-based Email Client
+S0226,"Java, Keras, C++",Education,Full-time,Creative,Finance Tracker Web App
+S0227,"Flask, Python",Automation,Part-time,Research,Voice-based Email Client
+S0228,"Keras, AI, Flask, React",Climate,Full-time,Technical,Chatbot for Students
+S0229,"NodeJS, TensorFlow, Flask, AI",Healthcare,Full-time,Technical,Blockchain Voting System
+S0230,"C++, Keras, JavaScript",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S0231,"Figma, C++, AI",Cybersecurity,Full-time,Technical,E-learning Gamification Platform
+S0232,"ML, Django",Automation,Full-time,Technical,Blockchain Voting System
+S0233,"ML, JavaScript",Social Impact,Part-time,Creative,Automated Resume Screener
+S0234,"TensorFlow, Java",Cybersecurity,Part-time,Research,AI-powered Diet Planner
+S0235,"C++, TensorFlow",Finance,Part-time,Creative,Voice-based Email Client
+S0236,"Python, Java, JavaScript",Automation,Full-time,Creative,Mental Health UI Toolkit
+S0237,"TensorFlow, C++, Flask, Python",Climate,Full-time,Technical,Smart Attendance System
+S0238,"Java, NodeJS, C++",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S0239,"Flask, C++",Social Impact,Full-time,Technical,Automated Resume Screener
+S0240,"React, Python, Flask",Social Impact,Full-time,Technical,Voice-based Email Client
+S0241,"Flask, Django",Healthcare,Full-time,Research,Voice-based Email Client
+S0242,"Java, React",Finance,Part-time,Creative,Chatbot for Students
+S0243,"Flask, C++, TensorFlow",Social Impact,Part-time,Technical,Voice-based Email Client
+S0244,"Figma, Flask, NodeJS, C++",Healthcare,Full-time,Research,Mental Health UI Toolkit
+S0245,"Figma, Python, ML",Climate,Part-time,Creative,E-learning Gamification Platform
+S0246,"Django, Flask",Finance,Part-time,Creative,Finance Tracker Web App
+S0247,"Java, Python, ML",Social Impact,Full-time,Creative,Smart Attendance System
+S0248,"Java, Django, Flask",Education,Full-time,Research,Mental Health UI Toolkit
+S0249,"Java, Django, React",Cybersecurity,Part-time,Technical,Finance Tracker Web App
+S0250,"Flask, Figma",Automation,Part-time,Technical,Automated Resume Screener
+S0251,"Figma, AI, TensorFlow",Social Impact,Part-time,Research,Smart Attendance System
+S0252,"Keras, Java",Automation,Full-time,Research,Mental Health UI Toolkit
+S0253,"AI, Flask, JavaScript, Python",Cybersecurity,Part-time,Creative,E-learning Gamification Platform
+S0254,"Python, Keras, JavaScript, Java",Cybersecurity,Part-time,Technical,E-learning Gamification Platform
+S0255,"TensorFlow, NodeJS, Keras, Java",Education,Part-time,Technical,Chatbot for Students
+S0256,"NodeJS, TensorFlow, Keras",Automation,Part-time,Creative,Automated Resume Screener
+S0257,"ML, Figma, Flask",Climate,Full-time,Technical,Smart Attendance System
+S0258,"Java, TensorFlow, ML, Flask",Finance,Full-time,Research,E-learning Gamification Platform
+S0259,"Flask, Java, Keras, TensorFlow",Automation,Part-time,Technical,AI-powered Diet Planner
+S0260,"TensorFlow, C++, React",Healthcare,Full-time,Research,Smart Attendance System
+S0261,"TensorFlow, Keras",Education,Full-time,Research,Automated Resume Screener
+S0262,"AI, Python",Healthcare,Part-time,Technical,Blockchain Voting System
+S0263,"Figma, AI",Social Impact,Full-time,Research,Voice-based Email Client
+S0264,"Figma, TensorFlow, React, ML",Finance,Full-time,Creative,Mental Health UI Toolkit
+S0265,"C++, AI, Django, JavaScript",Healthcare,Part-time,Technical,Mental Health UI Toolkit
+S0266,"Figma, Flask, C++",Cybersecurity,Part-time,Technical,Mental Health UI Toolkit
+S0267,"TensorFlow, NodeJS",Healthcare,Part-time,Research,Smart Attendance System
+S0268,"Python, Figma, JavaScript, Django",Social Impact,Part-time,Technical,Blockchain Voting System
+S0269,"C++, Python, ML, Keras",Automation,Part-time,Technical,AI-powered Diet Planner
+S0270,"ML, Keras, JavaScript, Django",Climate,Full-time,Creative,Mental Health UI Toolkit
+S0271,"Java, AI, Django",Finance,Full-time,Creative,Automated Resume Screener
+S0272,"TensorFlow, Flask, JavaScript, Django",Healthcare,Part-time,Creative,Finance Tracker Web App
+S0273,"JavaScript, Python",Automation,Full-time,Creative,Voice-based Email Client
+S0274,"Python, Java, C++, Keras",Finance,Full-time,Creative,Automated Resume Screener
+S0275,"Figma, Python, JavaScript",Finance,Full-time,Research,Mental Health UI Toolkit
+S0276,"Java, NodeJS, JavaScript, Figma",Cybersecurity,Full-time,Creative,Chatbot for Students
+S0277,"Python, Keras, JavaScript",Automation,Full-time,Technical,E-learning Gamification Platform
+S0278,"Flask, AI, C++",Climate,Part-time,Creative,AI-powered Diet Planner
+S0279,"Flask, React, ML, NodeJS",Healthcare,Part-time,Technical,E-learning Gamification Platform
+S0280,"TensorFlow, NodeJS, AI, JavaScript",Education,Part-time,Technical,E-learning Gamification Platform
+S0281,"ML, C++",Automation,Part-time,Creative,Voice-based Email Client
+S0282,"TensorFlow, Flask, Django",Education,Full-time,Research,Finance Tracker Web App
+S0283,"React, AI, JavaScript, TensorFlow",Social Impact,Full-time,Research,Blockchain Voting System
+S0284,"C++, Flask, ML, React",Social Impact,Full-time,Technical,Smart Attendance System
+S0285,"React, Java, C++",Healthcare,Part-time,Creative,Voice-based Email Client
+S0286,"Keras, TensorFlow, Python",Automation,Full-time,Research,AI-powered Diet Planner
+S0287,"Python, React",Education,Full-time,Research,Voice-based Email Client
+S0288,"JavaScript, AI",Healthcare,Part-time,Technical,Voice-based Email Client
+S0289,"Java, NodeJS, C++, Keras",Automation,Full-time,Research,Mental Health UI Toolkit
+S0290,"C++, React, Keras, TensorFlow",Finance,Part-time,Technical,AI-powered Diet Planner
+S0291,"TensorFlow, Python",Social Impact,Full-time,Research,Blockchain Voting System
+S0292,"Keras, NodeJS, ML",Social Impact,Full-time,Creative,Finance Tracker Web App
+S0293,"Flask, Keras, C++",Automation,Full-time,Research,Mental Health UI Toolkit
+S0294,"TensorFlow, Figma",Finance,Part-time,Creative,Voice-based Email Client
+S0295,"Keras, Java, C++, Django",Education,Part-time,Technical,AI-powered Diet Planner
+S0296,"C++, Keras, NodeJS, Flask",Social Impact,Part-time,Research,Chatbot for Students
+S0297,"React, Flask, Java, Django",Education,Full-time,Research,Chatbot for Students
+S0298,"NodeJS, Flask",Finance,Full-time,Creative,E-learning Gamification Platform
+S0299,"Java, Django",Climate,Full-time,Research,Smart Attendance System
+S0300,"Java, C++, JavaScript, ML",Education,Part-time,Research,Automated Resume Screener
+S0301,"AI, ML, Flask",Education,Full-time,Research,Blockchain Voting System
+S0302,"NodeJS, TensorFlow",Cybersecurity,Full-time,Creative,AI-powered Diet Planner
+S0303,"C++, React, NodeJS, ML",Finance,Part-time,Research,Mental Health UI Toolkit
+S0304,"Python, AI, TensorFlow, Figma",Climate,Part-time,Research,Voice-based Email Client
+S0305,"TensorFlow, Django, NodeJS",Finance,Part-time,Creative,Smart Attendance System
+S0306,"C++, NodeJS, TensorFlow, React",Cybersecurity,Part-time,Research,AI-powered Diet Planner
+S0307,"Figma, JavaScript, C++",Automation,Full-time,Creative,Smart Attendance System
+S0308,"Python, React",Automation,Part-time,Technical,AI-powered Diet Planner
+S0309,"JavaScript, AI, React",Education,Full-time,Research,Automated Resume Screener
+S0310,"Django, AI, React",Healthcare,Part-time,Technical,AI-powered Diet Planner
+S0311,"JavaScript, NodeJS, TensorFlow",Social Impact,Full-time,Creative,Chatbot for Students
+S0312,"C++, React, Figma, Python",Social Impact,Full-time,Research,Chatbot for Students
+S0313,"AI, TensorFlow, C++",Cybersecurity,Part-time,Research,Smart Attendance System
+S0314,"Keras, JavaScript, C++",Climate,Full-time,Research,Smart Attendance System
+S0315,"Django, Figma, NodeJS, C++",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S0316,"Django, JavaScript, React",Social Impact,Full-time,Research,AI-powered Diet Planner
+S0317,"Django, Figma, NodeJS, TensorFlow",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S0318,"ML, Flask, AI",Climate,Full-time,Technical,AI-powered Diet Planner
+S0319,"Keras, AI, ML",Education,Part-time,Technical,Smart Attendance System
+S0320,"Flask, NodeJS, TensorFlow",Social Impact,Part-time,Technical,Automated Resume Screener
+S0321,"React, JavaScript",Finance,Full-time,Technical,Finance Tracker Web App
+S0322,"C++, JavaScript",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S0323,"Figma, ML, JavaScript, Flask",Finance,Full-time,Technical,AI-powered Diet Planner
+S0324,"TensorFlow, AI, Python",Finance,Part-time,Creative,Finance Tracker Web App
+S0325,"JavaScript, React, Keras, Java",Social Impact,Part-time,Technical,AI-powered Diet Planner
+S0326,"Python, AI, C++, Django",Automation,Part-time,Technical,Blockchain Voting System
+S0327,"C++, NodeJS",Social Impact,Full-time,Research,Blockchain Voting System
+S0328,"Figma, TensorFlow",Healthcare,Part-time,Research,Blockchain Voting System
+S0329,"JavaScript, Java",Automation,Part-time,Creative,AI-powered Diet Planner
+S0330,"NodeJS, JavaScript, C++",Cybersecurity,Full-time,Technical,Finance Tracker Web App
+S0331,"NodeJS, JavaScript, Java",Education,Full-time,Research,Mental Health UI Toolkit
+S0332,"AI, Python, NodeJS, Flask",Automation,Full-time,Research,Voice-based Email Client
+S0333,"TensorFlow, Java, C++",Social Impact,Part-time,Technical,E-learning Gamification Platform
+S0334,"TensorFlow, JavaScript",Automation,Part-time,Research,Voice-based Email Client
+S0335,"ML, React",Healthcare,Full-time,Research,Voice-based Email Client
+S0336,"Figma, Flask, Keras, NodeJS",Finance,Full-time,Research,Automated Resume Screener
+S0337,"NodeJS, Flask, React, TensorFlow",Finance,Full-time,Research,AI-powered Diet Planner
+S0338,"TensorFlow, JavaScript, C++, Figma",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S0339,"Django, JavaScript, React, ML",Automation,Full-time,Creative,Smart Attendance System
+S0340,"Flask, Figma, Java, AI",Healthcare,Part-time,Research,Mental Health UI Toolkit
+S0341,"TensorFlow, Figma",Finance,Full-time,Creative,Automated Resume Screener
+S0342,"React, AI",Education,Full-time,Creative,E-learning Gamification Platform
+S0343,"JavaScript, ML, C++",Cybersecurity,Part-time,Creative,Smart Attendance System
+S0344,"Keras, Python",Cybersecurity,Full-time,Research,AI-powered Diet Planner
+S0345,"JavaScript, AI",Social Impact,Full-time,Technical,Finance Tracker Web App
+S0346,"C++, JavaScript, Figma, NodeJS",Finance,Full-time,Technical,Blockchain Voting System
+S0347,"JavaScript, NodeJS",Finance,Part-time,Technical,Finance Tracker Web App
+S0348,"React, Django, JavaScript",Climate,Part-time,Creative,Mental Health UI Toolkit
+S0349,"Python, Flask",Automation,Part-time,Creative,AI-powered Diet Planner
+S0350,"C++, Figma, NodeJS, Python",Climate,Part-time,Research,Smart Attendance System
+S0351,"Python, React",Healthcare,Part-time,Creative,Finance Tracker Web App
+S0352,"JavaScript, Django, ML, C++",Cybersecurity,Part-time,Research,Chatbot for Students
+S0353,"Figma, Flask",Cybersecurity,Part-time,Creative,E-learning Gamification Platform
+S0354,"AI, Figma, JavaScript",Education,Full-time,Research,Blockchain Voting System
+S0355,"Java, JavaScript",Education,Part-time,Creative,Chatbot for Students
+S0356,"ML, JavaScript",Social Impact,Full-time,Technical,Automated Resume Screener
+S0357,"Flask, Java, NodeJS, Python",Education,Part-time,Research,Voice-based Email Client
+S0358,"NodeJS, Keras, ML, AI",Education,Full-time,Research,Automated Resume Screener
+S0359,"AI, Java",Automation,Full-time,Creative,AI-powered Diet Planner
+S0360,"C++, ML",Social Impact,Full-time,Technical,Chatbot for Students
+S0361,"TensorFlow, Python, Keras",Healthcare,Part-time,Creative,Smart Attendance System
+S0362,"Python, Django, Figma, Flask",Automation,Full-time,Technical,Smart Attendance System
+S0363,"AI, Django",Cybersecurity,Full-time,Research,Smart Attendance System
+S0364,"C++, AI, Python",Automation,Part-time,Creative,Mental Health UI Toolkit
+S0365,"Keras, Flask",Finance,Part-time,Technical,Smart Attendance System
+S0366,"React, JavaScript",Automation,Full-time,Technical,Voice-based Email Client
+S0367,"Figma, Django, React, NodeJS",Cybersecurity,Full-time,Research,Smart Attendance System
+S0368,"AI, Figma, ML, Keras",Automation,Full-time,Research,Voice-based Email Client
+S0369,"TensorFlow, JavaScript",Education,Part-time,Technical,E-learning Gamification Platform
+S0370,"NodeJS, ML, TensorFlow",Finance,Part-time,Research,Automated Resume Screener
+S0371,"Django, Flask, React, Java",Automation,Part-time,Research,Blockchain Voting System
+S0372,"Python, TensorFlow, Flask, Figma",Healthcare,Part-time,Creative,Blockchain Voting System
+S0373,"TensorFlow, Flask, NodeJS",Healthcare,Full-time,Technical,E-learning Gamification Platform
+S0374,"C++, Keras, NodeJS, AI",Healthcare,Full-time,Technical,Automated Resume Screener
+S0375,"AI, Flask, JavaScript, Python",Cybersecurity,Part-time,Technical,E-learning Gamification Platform
+S0376,"AI, Java, Keras, Flask",Social Impact,Part-time,Research,E-learning Gamification Platform
+S0377,"ML, TensorFlow, Django, AI",Finance,Full-time,Technical,Voice-based Email Client
+S0378,"Keras, Figma, Django, Flask",Social Impact,Full-time,Creative,Smart Attendance System
+S0379,"C++, Django",Climate,Part-time,Technical,E-learning Gamification Platform
+S0380,"Python, Keras, Java, React",Education,Part-time,Technical,Blockchain Voting System
+S0381,"Python, C++",Climate,Part-time,Research,Blockchain Voting System
+S0382,"Keras, Figma, Python",Finance,Part-time,Creative,Smart Attendance System
+S0383,"Flask, AI",Climate,Full-time,Creative,Smart Attendance System
+S0384,"Python, JavaScript",Finance,Part-time,Creative,Blockchain Voting System
+S0385,"TensorFlow, Figma, C++",Social Impact,Full-time,Technical,Chatbot for Students
+S0386,"JavaScript, Python",Social Impact,Part-time,Technical,Smart Attendance System
+S0387,"AI, JavaScript, C++, Django",Education,Part-time,Creative,AI-powered Diet Planner
+S0388,"Django, ML",Finance,Full-time,Creative,Blockchain Voting System
+S0389,"Keras, TensorFlow, C++, Django",Automation,Part-time,Research,Voice-based Email Client
+S0390,"Flask, NodeJS",Social Impact,Part-time,Research,Chatbot for Students
+S0391,"Java, NodeJS, Django, React",Automation,Part-time,Technical,AI-powered Diet Planner
+S0392,"Keras, Python, Flask",Climate,Part-time,Creative,Finance Tracker Web App
+S0393,"Python, React, TensorFlow, NodeJS",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S0394,"Keras, Flask, Figma",Automation,Full-time,Research,E-learning Gamification Platform
+S0395,"AI, Java",Education,Part-time,Research,Voice-based Email Client
+S0396,"ML, React",Climate,Full-time,Technical,Mental Health UI Toolkit
+S0397,"Figma, Python, React, Flask",Climate,Full-time,Technical,Mental Health UI Toolkit
+S0398,"React, TensorFlow",Automation,Part-time,Creative,AI-powered Diet Planner
+S0399,"Figma, Django, AI",Social Impact,Full-time,Creative,Chatbot for Students
+S0400,"Django, React, ML",Finance,Part-time,Technical,Blockchain Voting System
+S0401,"NodeJS, Java",Climate,Full-time,Creative,E-learning Gamification Platform
+S0402,"Figma, AI, C++",Climate,Full-time,Creative,Mental Health UI Toolkit
+S0403,"C++, JavaScript",Social Impact,Part-time,Research,Chatbot for Students
+S0404,"Figma, C++, JavaScript",Cybersecurity,Part-time,Research,Mental Health UI Toolkit
+S0405,"C++, Django, React",Finance,Full-time,Research,Chatbot for Students
+S0406,"Flask, Python, ML, TensorFlow",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S0407,"Java, NodeJS",Automation,Part-time,Research,E-learning Gamification Platform
+S0408,"C++, Java, TensorFlow",Automation,Part-time,Technical,Voice-based Email Client
+S0409,"C++, TensorFlow, ML",Cybersecurity,Full-time,Research,AI-powered Diet Planner
+S0410,"JavaScript, Figma, React, AI",Automation,Full-time,Creative,Smart Attendance System
+S0411,"Keras, NodeJS, React, C++",Social Impact,Part-time,Research,Finance Tracker Web App
+S0412,"JavaScript, Java",Education,Full-time,Creative,Voice-based Email Client
+S0413,"Flask, ML, React, NodeJS",Healthcare,Full-time,Technical,Finance Tracker Web App
+S0414,"Figma, Python, C++",Healthcare,Full-time,Research,Chatbot for Students
+S0415,"Keras, JavaScript, ML, Python",Automation,Part-time,Creative,Blockchain Voting System
+S0416,"Keras, C++, TensorFlow, Django",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S0417,"Java, Django, NodeJS",Cybersecurity,Part-time,Technical,Blockchain Voting System
+S0418,"JavaScript, Keras, React, Django",Automation,Full-time,Creative,Finance Tracker Web App
+S0419,"Figma, Keras",Healthcare,Full-time,Research,Mental Health UI Toolkit
+S0420,"AI, ML, JavaScript, Java",Climate,Full-time,Technical,Voice-based Email Client
+S0421,"React, JavaScript, AI",Climate,Full-time,Technical,Mental Health UI Toolkit
+S0422,"React, C++",Cybersecurity,Part-time,Creative,Smart Attendance System
+S0423,"TensorFlow, Python, React, JavaScript",Education,Full-time,Technical,Automated Resume Screener
+S0424,"JavaScript, Java, ML",Cybersecurity,Full-time,Creative,Mental Health UI Toolkit
+S0425,"JavaScript, Python",Climate,Part-time,Technical,Blockchain Voting System
+S0426,"JavaScript, ML, AI",Climate,Full-time,Research,Chatbot for Students
+S0427,"Flask, NodeJS, JavaScript, TensorFlow",Education,Part-time,Technical,AI-powered Diet Planner
+S0428,"Keras, AI, Figma, JavaScript",Automation,Full-time,Technical,Smart Attendance System
+S0429,"ML, Keras",Finance,Part-time,Creative,E-learning Gamification Platform
+S0430,"ML, Python, NodeJS, Java",Education,Full-time,Creative,Blockchain Voting System
+S0431,"NodeJS, Django, C++, Java",Climate,Part-time,Technical,Automated Resume Screener
+S0432,"Django, Flask, JavaScript",Healthcare,Full-time,Research,Smart Attendance System
+S0433,"Flask, AI, Django, Keras",Healthcare,Part-time,Research,Voice-based Email Client
+S0434,"NodeJS, JavaScript, Figma, ML",Social Impact,Part-time,Research,Smart Attendance System
+S0435,"NodeJS, TensorFlow, Python",Social Impact,Full-time,Technical,Automated Resume Screener
+S0436,"JavaScript, Java",Social Impact,Part-time,Technical,Voice-based Email Client
+S0437,"NodeJS, Flask, Python",Finance,Part-time,Technical,AI-powered Diet Planner
+S0438,"ML, Java",Education,Part-time,Technical,Blockchain Voting System
+S0439,"Django, Python",Finance,Full-time,Technical,E-learning Gamification Platform
+S0440,"Figma, Flask",Climate,Full-time,Research,E-learning Gamification Platform
+S0441,"Django, Java",Education,Full-time,Technical,E-learning Gamification Platform
+S0442,"C++, Figma, Python",Cybersecurity,Full-time,Technical,Finance Tracker Web App
+S0443,"NodeJS, ML, JavaScript, Python",Education,Full-time,Technical,Voice-based Email Client
+S0444,"Flask, Java, Python, JavaScript",Finance,Part-time,Technical,Voice-based Email Client
+S0445,"Flask, JavaScript, AI",Education,Part-time,Technical,Voice-based Email Client
+S0446,"Java, NodeJS",Climate,Full-time,Technical,Mental Health UI Toolkit
+S0447,"C++, ML, Keras",Automation,Part-time,Research,Smart Attendance System
+S0448,"Figma, NodeJS",Finance,Part-time,Research,Mental Health UI Toolkit
+S0449,"ML, Django, NodeJS, React",Education,Part-time,Technical,Voice-based Email Client
+S0450,"Keras, React, Flask",Cybersecurity,Part-time,Creative,Finance Tracker Web App
+S0451,"TensorFlow, Keras, AI, Figma",Cybersecurity,Full-time,Creative,Finance Tracker Web App
+S0452,"Keras, Figma",Healthcare,Part-time,Technical,Voice-based Email Client
+S0453,"Django, Python, NodeJS",Climate,Full-time,Technical,Voice-based Email Client
+S0454,"React, JavaScript",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S0455,"React, Keras",Education,Part-time,Research,Smart Attendance System
+S0456,"AI, TensorFlow",Social Impact,Part-time,Creative,Mental Health UI Toolkit
+S0457,"Figma, Python, NodeJS",Automation,Full-time,Creative,Chatbot for Students
+S0458,"TensorFlow, Django, NodeJS",Social Impact,Full-time,Research,Chatbot for Students
+S0459,"NodeJS, Python, ML",Automation,Part-time,Creative,AI-powered Diet Planner
+S0460,"C++, AI, React, NodeJS",Finance,Part-time,Creative,Mental Health UI Toolkit
+S0461,"Java, ML, Flask",Education,Full-time,Research,Automated Resume Screener
+S0462,"NodeJS, React",Automation,Part-time,Research,Smart Attendance System
+S0463,"ML, AI",Social Impact,Full-time,Creative,Finance Tracker Web App
+S0464,"TensorFlow, JavaScript, C++, Figma",Education,Full-time,Research,Mental Health UI Toolkit
+S0465,"TensorFlow, Django",Social Impact,Part-time,Research,Voice-based Email Client
+S0466,"Python, NodeJS, AI",Healthcare,Part-time,Technical,E-learning Gamification Platform
+S0467,"TensorFlow, React, Keras",Finance,Part-time,Technical,Voice-based Email Client
+S0468,"TensorFlow, AI",Climate,Part-time,Research,Chatbot for Students
+S0469,"ML, Django, Java",Climate,Part-time,Technical,Chatbot for Students
+S0470,"React, JavaScript, Figma",Finance,Full-time,Technical,AI-powered Diet Planner
+S0471,"ML, C++, Django",Finance,Part-time,Technical,Blockchain Voting System
+S0472,"NodeJS, Flask",Social Impact,Full-time,Research,Blockchain Voting System
+S0473,"Django, Java, AI",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S0474,"ML, TensorFlow, Figma, Python",Education,Part-time,Creative,Finance Tracker Web App
+S0475,"Django, Java",Automation,Part-time,Creative,Smart Attendance System
+S0476,"Figma, Python, C++, ML",Finance,Full-time,Creative,Chatbot for Students
+S0477,"Java, Python",Healthcare,Full-time,Creative,Blockchain Voting System
+S0478,"Django, TensorFlow, JavaScript, React",Climate,Full-time,Research,Mental Health UI Toolkit
+S0479,"TensorFlow, Django",Education,Full-time,Research,Finance Tracker Web App
+S0480,"C++, NodeJS, Django, Python",Cybersecurity,Full-time,Technical,Chatbot for Students
+S0481,"Python, Django, Figma, JavaScript",Education,Part-time,Technical,Mental Health UI Toolkit
+S0482,"React, C++, ML, Figma",Social Impact,Full-time,Creative,E-learning Gamification Platform
+S0483,"NodeJS, Figma, Python",Automation,Full-time,Research,Blockchain Voting System
+S0484,"React, NodeJS, Keras",Healthcare,Part-time,Research,Chatbot for Students
+S0485,"JavaScript, Figma",Automation,Part-time,Research,AI-powered Diet Planner
+S0486,"Flask, Java, TensorFlow, NodeJS",Education,Part-time,Creative,E-learning Gamification Platform
+S0487,"Java, AI, Django",Healthcare,Part-time,Technical,Smart Attendance System
+S0488,"TensorFlow, JavaScript, NodeJS, ML",Education,Part-time,Creative,Blockchain Voting System
+S0489,"AI, Flask, Django",Automation,Part-time,Technical,AI-powered Diet Planner
+S0490,"AI, Java, Figma",Automation,Full-time,Creative,AI-powered Diet Planner
+S0491,"Flask, Keras",Climate,Part-time,Creative,Voice-based Email Client
+S0492,"Java, Figma",Healthcare,Full-time,Creative,Mental Health UI Toolkit
+S0493,"Keras, AI, Java",Cybersecurity,Part-time,Creative,Chatbot for Students
+S0494,"AI, Flask, NodeJS",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S0495,"NodeJS, TensorFlow",Healthcare,Full-time,Technical,Smart Attendance System
+S0496,"Flask, NodeJS, Keras, JavaScript",Cybersecurity,Part-time,Technical,Finance Tracker Web App
+S0497,"TensorFlow, Django, JavaScript",Automation,Full-time,Technical,Finance Tracker Web App
+S0498,"React, ML",Education,Part-time,Technical,AI-powered Diet Planner
+S0499,"ML, TensorFlow, Django",Cybersecurity,Full-time,Research,E-learning Gamification Platform
+S0500,"Django, Python, JavaScript, React",Automation,Full-time,Creative,Automated Resume Screener
+S0501,"NodeJS, Python, Java, C++",Healthcare,Full-time,Technical,Voice-based Email Client
+S0502,"C++, Python, AI",Cybersecurity,Full-time,Research,Automated Resume Screener
+S0503,"TensorFlow, ML",Healthcare,Part-time,Creative,Automated Resume Screener
+S0504,"Keras, Django, AI",Healthcare,Part-time,Research,Automated Resume Screener
+S0505,"Keras, Figma, C++, NodeJS",Automation,Full-time,Creative,Voice-based Email Client
+S0506,"AI, ML",Social Impact,Full-time,Technical,Blockchain Voting System
+S0507,"TensorFlow, Python, ML",Social Impact,Full-time,Creative,Blockchain Voting System
+S0508,"C++, Figma, TensorFlow, Django",Education,Part-time,Technical,AI-powered Diet Planner
+S0509,"Django, TensorFlow, C++",Healthcare,Full-time,Creative,Automated Resume Screener
+S0510,"Django, AI",Education,Part-time,Technical,Chatbot for Students
+S0511,"Python, React, Figma",Cybersecurity,Full-time,Technical,E-learning Gamification Platform
+S0512,"Django, ML, Figma, Python",Education,Full-time,Technical,AI-powered Diet Planner
+S0513,"C++, NodeJS",Finance,Part-time,Technical,Finance Tracker Web App
+S0514,"TensorFlow, AI",Social Impact,Full-time,Creative,Blockchain Voting System
+S0515,"AI, Flask, JavaScript, Figma",Healthcare,Full-time,Research,Mental Health UI Toolkit
+S0516,"Keras, AI, TensorFlow",Social Impact,Full-time,Research,Voice-based Email Client
+S0517,"C++, ML",Finance,Full-time,Technical,Automated Resume Screener
+S0518,"React, TensorFlow",Climate,Full-time,Technical,Chatbot for Students
+S0519,"AI, Keras, TensorFlow",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S0520,"C++, NodeJS, JavaScript, React",Social Impact,Full-time,Creative,Finance Tracker Web App
+S0521,"C++, TensorFlow, Python, Figma",Automation,Full-time,Research,Mental Health UI Toolkit
+S0522,"JavaScript, Python, Flask, AI",Healthcare,Part-time,Technical,AI-powered Diet Planner
+S0523,"NodeJS, Flask",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S0524,"Django, TensorFlow",Finance,Part-time,Technical,Smart Attendance System
+S0525,"Figma, AI",Automation,Full-time,Technical,E-learning Gamification Platform
+S0526,"Django, JavaScript, Python, React",Finance,Part-time,Technical,Chatbot for Students
+S0527,"C++, AI",Finance,Full-time,Research,Voice-based Email Client
+S0528,"Figma, C++, AI",Social Impact,Full-time,Creative,E-learning Gamification Platform
+S0529,"Django, TensorFlow",Automation,Full-time,Research,Finance Tracker Web App
+S0530,"Java, AI",Healthcare,Part-time,Creative,Finance Tracker Web App
+S0531,"ML, Django, Figma",Education,Part-time,Creative,Mental Health UI Toolkit
+S0532,"NodeJS, React, C++, ML",Climate,Full-time,Technical,Chatbot for Students
+S0533,"Figma, Keras",Social Impact,Part-time,Creative,Blockchain Voting System
+S0534,"AI, TensorFlow, NodeJS",Automation,Part-time,Creative,Voice-based Email Client
+S0535,"Java, TensorFlow, Figma, NodeJS",Education,Part-time,Creative,Mental Health UI Toolkit
+S0536,"Python, Flask, Keras, NodeJS",Finance,Full-time,Technical,Finance Tracker Web App
+S0537,"Figma, Django, JavaScript, Keras",Healthcare,Full-time,Creative,Blockchain Voting System
+S0538,"C++, AI",Automation,Part-time,Technical,Finance Tracker Web App
+S0539,"Keras, Django, Flask",Automation,Part-time,Technical,Smart Attendance System
+S0540,"React, TensorFlow, Flask",Cybersecurity,Part-time,Technical,Smart Attendance System
+S0541,"JavaScript, Django",Social Impact,Part-time,Creative,AI-powered Diet Planner
+S0542,"C++, ML, TensorFlow",Education,Part-time,Technical,E-learning Gamification Platform
+S0543,"C++, ML",Cybersecurity,Full-time,Research,Smart Attendance System
+S0544,"Django, C++, JavaScript",Cybersecurity,Part-time,Technical,Automated Resume Screener
+S0545,"JavaScript, Django",Cybersecurity,Full-time,Technical,Smart Attendance System
+S0546,"Flask, Python",Healthcare,Part-time,Research,Finance Tracker Web App
+S0547,"Django, Python, React, Flask",Social Impact,Full-time,Creative,Voice-based Email Client
+S0548,"Figma, Python, Flask, React",Education,Full-time,Technical,Automated Resume Screener
+S0549,"Django, TensorFlow, Figma, C++",Healthcare,Full-time,Technical,AI-powered Diet Planner
+S0550,"TensorFlow, NodeJS",Climate,Full-time,Creative,Blockchain Voting System
+S0551,"Keras, Flask, AI, ML",Finance,Full-time,Technical,Voice-based Email Client
+S0552,"Keras, Java",Climate,Part-time,Research,Voice-based Email Client
+S0553,"Keras, Java, NodeJS",Cybersecurity,Full-time,Creative,E-learning Gamification Platform
+S0554,"TensorFlow, Django, JavaScript",Climate,Part-time,Technical,Automated Resume Screener
+S0555,"Django, TensorFlow, NodeJS",Climate,Part-time,Technical,Finance Tracker Web App
+S0556,"C++, Java, AI, Python",Finance,Full-time,Research,Chatbot for Students
+S0557,"C++, NodeJS, JavaScript",Automation,Full-time,Technical,Automated Resume Screener
+S0558,"Flask, Django",Automation,Full-time,Technical,Automated Resume Screener
+S0559,"Django, Flask, TensorFlow, Java",Climate,Part-time,Creative,AI-powered Diet Planner
+S0560,"React, Figma, Flask",Climate,Part-time,Technical,Voice-based Email Client
+S0561,"Java, ML, Keras, React",Cybersecurity,Part-time,Research,Voice-based Email Client
+S0562,"Figma, ML, Django",Education,Full-time,Creative,Finance Tracker Web App
+S0563,"AI, Java, TensorFlow",Education,Part-time,Research,Chatbot for Students
+S0564,"ML, NodeJS",Social Impact,Part-time,Technical,Voice-based Email Client
+S0565,"JavaScript, Python",Education,Part-time,Creative,Voice-based Email Client
+S0566,"Django, Python",Finance,Full-time,Technical,Blockchain Voting System
+S0567,"Figma, React, TensorFlow",Finance,Full-time,Creative,E-learning Gamification Platform
+S0568,"ML, Keras",Healthcare,Part-time,Creative,Smart Attendance System
+S0569,"Keras, Django, Figma",Finance,Part-time,Creative,Automated Resume Screener
+S0570,"TensorFlow, Keras, Python",Healthcare,Part-time,Technical,Automated Resume Screener
+S0571,"Keras, React, AI",Cybersecurity,Part-time,Research,Automated Resume Screener
+S0572,"AI, ML, React, Python",Climate,Part-time,Technical,Blockchain Voting System
+S0573,"C++, JavaScript, Figma, Keras",Finance,Full-time,Research,Smart Attendance System
+S0574,"C++, NodeJS, Keras",Automation,Part-time,Research,Automated Resume Screener
+S0575,"Java, Flask, C++",Automation,Part-time,Research,Finance Tracker Web App
+S0576,"Figma, Java, C++",Education,Full-time,Technical,Finance Tracker Web App
+S0577,"Python, Java, NodeJS, Keras",Finance,Part-time,Creative,Mental Health UI Toolkit
+S0578,"Figma, JavaScript",Social Impact,Part-time,Technical,Automated Resume Screener
+S0579,"C++, Python, Java",Finance,Part-time,Technical,Blockchain Voting System
+S0580,"AI, NodeJS",Cybersecurity,Part-time,Creative,Mental Health UI Toolkit
+S0581,"Flask, Keras",Automation,Full-time,Research,Blockchain Voting System
+S0582,"C++, Django",Finance,Part-time,Research,Finance Tracker Web App
+S0583,"Java, JavaScript",Social Impact,Part-time,Technical,Smart Attendance System
+S0584,"NodeJS, TensorFlow, JavaScript, ML",Automation,Full-time,Creative,E-learning Gamification Platform
+S0585,"JavaScript, Python, ML, Java",Education,Full-time,Research,E-learning Gamification Platform
+S0586,"Keras, Figma, JavaScript",Social Impact,Part-time,Creative,Automated Resume Screener
+S0587,"NodeJS, Django, JavaScript",Cybersecurity,Full-time,Technical,Voice-based Email Client
+S0588,"Keras, Figma, Java, TensorFlow",Automation,Part-time,Creative,E-learning Gamification Platform
+S0589,"Java, NodeJS, Figma",Healthcare,Part-time,Technical,Finance Tracker Web App
+S0590,"C++, React, NodeJS",Finance,Full-time,Research,Chatbot for Students
+S0591,"React, C++, Figma",Climate,Full-time,Technical,Finance Tracker Web App
+S0592,"AI, React, Figma, Django",Finance,Part-time,Creative,Smart Attendance System
+S0593,"NodeJS, Keras, Figma, Python",Climate,Full-time,Technical,Chatbot for Students
+S0594,"Figma, AI",Education,Part-time,Creative,Finance Tracker Web App
+S0595,"Figma, NodeJS",Climate,Full-time,Research,Smart Attendance System
+S0596,"JavaScript, Flask, NodeJS, Python",Automation,Part-time,Research,AI-powered Diet Planner
+S0597,"Java, Django, Figma",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S0598,"React, Keras",Education,Full-time,Research,Blockchain Voting System
+S0599,"AI, Keras, Flask, ML",Social Impact,Full-time,Research,Finance Tracker Web App
+S0600,"Flask, Java",Social Impact,Full-time,Technical,Finance Tracker Web App
+S0601,"AI, Django, Java",Finance,Part-time,Research,Voice-based Email Client
+S0602,"JavaScript, NodeJS, Python",Cybersecurity,Full-time,Technical,Chatbot for Students
+S0603,"Flask, React, NodeJS, Keras",Finance,Part-time,Research,Smart Attendance System
+S0604,"Figma, Python",Climate,Full-time,Creative,Voice-based Email Client
+S0605,"AI, Flask, React, NodeJS",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S0606,"TensorFlow, Java, C++, NodeJS",Education,Part-time,Technical,Chatbot for Students
+S0607,"Django, ML",Climate,Full-time,Creative,Finance Tracker Web App
+S0608,"Keras, Flask",Cybersecurity,Full-time,Creative,Automated Resume Screener
+S0609,"TensorFlow, ML",Automation,Part-time,Research,Smart Attendance System
+S0610,"ML, Java",Climate,Part-time,Technical,Mental Health UI Toolkit
+S0611,"React, Python, C++, AI",Cybersecurity,Full-time,Technical,E-learning Gamification Platform
+S0612,"Django, Keras, JavaScript, ML",Social Impact,Full-time,Technical,Chatbot for Students
+S0613,"NodeJS, TensorFlow",Climate,Part-time,Technical,AI-powered Diet Planner
+S0614,"NodeJS, Figma, Java",Climate,Part-time,Creative,Voice-based Email Client
+S0615,"Django, TensorFlow, C++",Education,Full-time,Technical,Smart Attendance System
+S0616,"Keras, C++, ML, NodeJS",Cybersecurity,Part-time,Research,Chatbot for Students
+S0617,"Python, NodeJS, Django",Climate,Full-time,Creative,Chatbot for Students
+S0618,"Django, React, TensorFlow, NodeJS",Social Impact,Part-time,Technical,Voice-based Email Client
+S0619,"ML, React",Healthcare,Part-time,Technical,Chatbot for Students
+S0620,"JavaScript, TensorFlow, React",Social Impact,Part-time,Creative,Blockchain Voting System
+S0621,"C++, Flask",Education,Part-time,Technical,Finance Tracker Web App
+S0622,"AI, Figma, Flask",Social Impact,Part-time,Creative,E-learning Gamification Platform
+S0623,"Figma, React, ML, JavaScript",Social Impact,Full-time,Technical,Smart Attendance System
+S0624,"Keras, JavaScript, ML",Healthcare,Full-time,Research,Voice-based Email Client
+S0625,"Django, Flask, JavaScript",Education,Full-time,Research,Automated Resume Screener
+S0626,"ML, Flask",Finance,Full-time,Creative,Chatbot for Students
+S0627,"Flask, JavaScript, C++, Figma",Finance,Part-time,Technical,Chatbot for Students
+S0628,"NodeJS, Django, TensorFlow",Automation,Part-time,Technical,Automated Resume Screener
+S0629,"Java, Flask, JavaScript, React",Climate,Part-time,Technical,Automated Resume Screener
+S0630,"React, Django, Java, ML",Social Impact,Part-time,Creative,Automated Resume Screener
+S0631,"Figma, Keras, Django",Healthcare,Full-time,Technical,Automated Resume Screener
+S0632,"ML, AI",Education,Part-time,Technical,Automated Resume Screener
+S0633,"Keras, Java",Automation,Part-time,Technical,Finance Tracker Web App
+S0634,"React, Django, Java, AI",Education,Full-time,Creative,Smart Attendance System
+S0635,"JavaScript, NodeJS, Keras, AI",Education,Full-time,Technical,Smart Attendance System
+S0636,"Figma, JavaScript, TensorFlow, React",Social Impact,Full-time,Research,Automated Resume Screener
+S0637,"Python, Flask, Django, JavaScript",Education,Part-time,Technical,Blockchain Voting System
+S0638,"C++, Java, TensorFlow, Figma",Automation,Part-time,Technical,Mental Health UI Toolkit
+S0639,"AI, Python, Keras, C++",Climate,Full-time,Research,Smart Attendance System
+S0640,"Keras, Python, Java, Django",Automation,Full-time,Research,E-learning Gamification Platform
+S0641,"C++, Figma, NodeJS",Automation,Full-time,Research,E-learning Gamification Platform
+S0642,"Java, Python, Django, React",Education,Full-time,Creative,Smart Attendance System
+S0643,"Python, Java, NodeJS, Django",Cybersecurity,Full-time,Research,Smart Attendance System
+S0644,"Flask, ML",Finance,Part-time,Technical,Blockchain Voting System
+S0645,"NodeJS, Figma, Keras, Python",Automation,Full-time,Research,Automated Resume Screener
+S0646,"Keras, Java, TensorFlow",Social Impact,Part-time,Creative,Smart Attendance System
+S0647,"JavaScript, Keras",Finance,Full-time,Creative,AI-powered Diet Planner
+S0648,"Keras, JavaScript",Finance,Part-time,Creative,Voice-based Email Client
+S0649,"AI, Flask, JavaScript, C++",Automation,Full-time,Research,Mental Health UI Toolkit
+S0650,"Python, JavaScript, TensorFlow, ML",Social Impact,Part-time,Technical,Smart Attendance System
+S0651,"Python, Flask",Cybersecurity,Full-time,Technical,Voice-based Email Client
+S0652,"NodeJS, Python, React",Healthcare,Full-time,Research,Smart Attendance System
+S0653,"JavaScript, Figma, React, ML",Automation,Part-time,Creative,Chatbot for Students
+S0654,"Python, JavaScript, React",Automation,Part-time,Technical,Mental Health UI Toolkit
+S0655,"Python, JavaScript",Finance,Full-time,Creative,E-learning Gamification Platform
+S0656,"Java, TensorFlow, Python, Keras",Finance,Full-time,Research,Voice-based Email Client
+S0657,"C++, Java, TensorFlow, Flask",Finance,Full-time,Technical,Finance Tracker Web App
+S0658,"ML, C++, NodeJS",Social Impact,Part-time,Research,Smart Attendance System
+S0659,"Java, Python",Climate,Full-time,Research,Finance Tracker Web App
+S0660,"NodeJS, React",Finance,Full-time,Creative,Blockchain Voting System
+S0661,"Django, C++, ML",Education,Full-time,Creative,Finance Tracker Web App
+S0662,"JavaScript, Flask, React, Java",Climate,Part-time,Research,Blockchain Voting System
+S0663,"AI, Java",Climate,Part-time,Creative,Chatbot for Students
+S0664,"Figma, AI, ML",Social Impact,Full-time,Research,Automated Resume Screener
+S0665,"Java, React, Django, NodeJS",Climate,Full-time,Research,Blockchain Voting System
+S0666,"Django, JavaScript, Keras, TensorFlow",Social Impact,Full-time,Technical,Voice-based Email Client
+S0667,"ML, Django, Flask",Climate,Full-time,Research,Automated Resume Screener
+S0668,"TensorFlow, AI, C++",Climate,Full-time,Research,Voice-based Email Client
+S0669,"Java, Flask, Keras, Python",Finance,Full-time,Research,Automated Resume Screener
+S0670,"JavaScript, C++, React, NodeJS",Education,Full-time,Research,E-learning Gamification Platform
+S0671,"TensorFlow, ML, Keras, Django",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S0672,"C++, Keras, AI",Cybersecurity,Part-time,Research,Mental Health UI Toolkit
+S0673,"C++, NodeJS",Healthcare,Full-time,Technical,Blockchain Voting System
+S0674,"Java, AI, TensorFlow",Automation,Part-time,Creative,Chatbot for Students
+S0675,"Keras, React, AI",Healthcare,Part-time,Research,Finance Tracker Web App
+S0676,"ML, C++",Healthcare,Part-time,Research,Blockchain Voting System
+S0677,"React, Java, NodeJS",Finance,Part-time,Research,Automated Resume Screener
+S0678,"C++, Keras, Flask",Healthcare,Part-time,Creative,Smart Attendance System
+S0679,"Java, Python, AI, React",Cybersecurity,Part-time,Research,Automated Resume Screener
+S0680,"NodeJS, ML",Finance,Part-time,Creative,Chatbot for Students
+S0681,"NodeJS, C++, Flask",Healthcare,Part-time,Research,Mental Health UI Toolkit
+S0682,"Keras, Figma, Python, ML",Education,Part-time,Technical,Blockchain Voting System
+S0683,"NodeJS, Figma",Education,Full-time,Research,Finance Tracker Web App
+S0684,"Figma, TensorFlow",Climate,Part-time,Research,E-learning Gamification Platform
+S0685,"JavaScript, Flask, NodeJS, React",Healthcare,Full-time,Creative,Mental Health UI Toolkit
+S0686,"Keras, JavaScript",Healthcare,Part-time,Research,AI-powered Diet Planner
+S0687,"JavaScript, TensorFlow, NodeJS",Automation,Full-time,Research,Voice-based Email Client
+S0688,"Django, Python",Social Impact,Full-time,Creative,E-learning Gamification Platform
+S0689,"JavaScript, Figma",Finance,Full-time,Creative,Finance Tracker Web App
+S0690,"NodeJS, JavaScript, C++",Automation,Full-time,Research,Blockchain Voting System
+S0691,"ML, Python, React, Keras",Healthcare,Full-time,Technical,Automated Resume Screener
+S0692,"Keras, NodeJS",Automation,Full-time,Research,Chatbot for Students
+S0693,"Flask, JavaScript, Python",Healthcare,Part-time,Creative,AI-powered Diet Planner
+S0694,"ML, Flask",Automation,Part-time,Creative,Automated Resume Screener
+S0695,"AI, TensorFlow",Automation,Full-time,Technical,AI-powered Diet Planner
+S0696,"Python, ML",Climate,Part-time,Technical,Blockchain Voting System
+S0697,"TensorFlow, Flask, JavaScript, React",Social Impact,Part-time,Technical,Chatbot for Students
+S0698,"NodeJS, Django, React",Education,Part-time,Technical,Automated Resume Screener
+S0699,"Keras, Python, C++",Healthcare,Part-time,Creative,Mental Health UI Toolkit
+S0700,"JavaScript, Flask, NodeJS",Automation,Full-time,Research,AI-powered Diet Planner
+S0701,"NodeJS, TensorFlow",Automation,Part-time,Technical,Smart Attendance System
+S0702,"Figma, Django",Automation,Full-time,Creative,Finance Tracker Web App
+S0703,"ML, Python, Keras",Healthcare,Full-time,Research,E-learning Gamification Platform
+S0704,"TensorFlow, AI, JavaScript",Healthcare,Full-time,Creative,Mental Health UI Toolkit
+S0705,"Python, Figma",Finance,Full-time,Research,Mental Health UI Toolkit
+S0706,"Java, C++, Flask",Automation,Part-time,Creative,Chatbot for Students
+S0707,"TensorFlow, React",Climate,Part-time,Technical,E-learning Gamification Platform
+S0708,"Keras, Django, AI",Climate,Full-time,Technical,Finance Tracker Web App
+S0709,"NodeJS, Java",Automation,Full-time,Creative,Finance Tracker Web App
+S0710,"ML, Figma, NodeJS, TensorFlow",Social Impact,Part-time,Technical,Chatbot for Students
+S0711,"React, ML, Java, Keras",Education,Full-time,Technical,Voice-based Email Client
+S0712,"TensorFlow, Flask, NodeJS, Python",Climate,Full-time,Research,Voice-based Email Client
+S0713,"Keras, NodeJS",Cybersecurity,Full-time,Research,Automated Resume Screener
+S0714,"AI, Figma",Cybersecurity,Full-time,Creative,Blockchain Voting System
+S0715,"JavaScript, Django, ML",Social Impact,Full-time,Technical,Finance Tracker Web App
+S0716,"TensorFlow, React",Finance,Full-time,Research,AI-powered Diet Planner
+S0717,"JavaScript, TensorFlow, React",Cybersecurity,Full-time,Technical,Chatbot for Students
+S0718,"Keras, Figma",Finance,Full-time,Research,Automated Resume Screener
+S0719,"NodeJS, Flask",Finance,Part-time,Research,Automated Resume Screener
+S0720,"JavaScript, NodeJS",Cybersecurity,Part-time,Research,Finance Tracker Web App
+S0721,"Figma, AI",Healthcare,Part-time,Creative,Blockchain Voting System
+S0722,"Figma, React",Education,Part-time,Technical,Automated Resume Screener
+S0723,"TensorFlow, C++, Flask, JavaScript",Finance,Part-time,Creative,Finance Tracker Web App
+S0724,"Keras, Java, Python, NodeJS",Healthcare,Full-time,Technical,Blockchain Voting System
+S0725,"Django, TensorFlow, Flask",Automation,Part-time,Creative,AI-powered Diet Planner
+S0726,"Flask, NodeJS, Java, AI",Education,Part-time,Research,AI-powered Diet Planner
+S0727,"React, TensorFlow, Java",Social Impact,Full-time,Research,Smart Attendance System
+S0728,"TensorFlow, Flask, Keras, React",Climate,Part-time,Creative,Automated Resume Screener
+S0729,"AI, TensorFlow",Social Impact,Part-time,Creative,AI-powered Diet Planner
+S0730,"Keras, C++",Finance,Full-time,Creative,E-learning Gamification Platform
+S0731,"AI, Python, React, Django",Finance,Full-time,Technical,Mental Health UI Toolkit
+S0732,"Django, TensorFlow",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S0733,"Figma, Django, Java, JavaScript",Climate,Part-time,Technical,Mental Health UI Toolkit
+S0734,"Python, Java, TensorFlow",Social Impact,Full-time,Creative,Automated Resume Screener
+S0735,"Python, TensorFlow, Figma",Social Impact,Part-time,Creative,Voice-based Email Client
+S0736,"Django, ML",Education,Part-time,Creative,E-learning Gamification Platform
+S0737,"C++, React",Education,Part-time,Creative,E-learning Gamification Platform
+S0738,"Keras, AI, JavaScript, Java",Healthcare,Part-time,Technical,Chatbot for Students
+S0739,"React, Java, AI, Figma",Finance,Part-time,Technical,Chatbot for Students
+S0740,"C++, Keras",Finance,Part-time,Technical,Smart Attendance System
+S0741,"C++, Python, Java",Cybersecurity,Full-time,Creative,Blockchain Voting System
+S0742,"Figma, Django, AI, C++",Climate,Full-time,Research,Mental Health UI Toolkit
+S0743,"Flask, Python, Figma, ML",Automation,Full-time,Research,E-learning Gamification Platform
+S0744,"AI, JavaScript, Keras, Django",Social Impact,Part-time,Research,Chatbot for Students
+S0745,"Java, Figma",Healthcare,Part-time,Research,Smart Attendance System
+S0746,"React, Figma, JavaScript, Keras",Climate,Part-time,Creative,Blockchain Voting System
+S0747,"JavaScript, React, AI",Climate,Part-time,Research,AI-powered Diet Planner
+S0748,"TensorFlow, Django, NodeJS",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S0749,"Java, Django, Python, React",Social Impact,Full-time,Research,Automated Resume Screener
+S0750,"AI, Keras, Flask, Figma",Climate,Full-time,Research,Voice-based Email Client
+S0751,"TensorFlow, JavaScript",Education,Full-time,Technical,Smart Attendance System
+S0752,"Keras, TensorFlow, Flask",Healthcare,Full-time,Creative,Smart Attendance System
+S0753,"JavaScript, C++",Education,Full-time,Creative,Finance Tracker Web App
+S0754,"Python, NodeJS, ML, Java",Cybersecurity,Full-time,Technical,Finance Tracker Web App
+S0755,"C++, Flask, Django",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S0756,"Java, ML",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S0757,"C++, Flask, Figma, Django",Education,Full-time,Creative,Finance Tracker Web App
+S0758,"Figma, Flask",Healthcare,Part-time,Creative,Chatbot for Students
+S0759,"ML, Flask",Cybersecurity,Part-time,Research,Smart Attendance System
+S0760,"ML, React, Figma, Django",Healthcare,Full-time,Research,AI-powered Diet Planner
+S0761,"Flask, NodeJS, JavaScript",Finance,Part-time,Research,Mental Health UI Toolkit
+S0762,"TensorFlow, Java, AI, NodeJS",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S0763,"TensorFlow, Keras, Figma, AI",Cybersecurity,Part-time,Technical,E-learning Gamification Platform
+S0764,"Java, C++",Healthcare,Full-time,Research,Blockchain Voting System
+S0765,"C++, Java",Climate,Full-time,Technical,Finance Tracker Web App
+S0766,"Python, JavaScript",Climate,Part-time,Research,Voice-based Email Client
+S0767,"Django, NodeJS",Healthcare,Full-time,Technical,Finance Tracker Web App
+S0768,"Django, Keras",Healthcare,Part-time,Creative,Smart Attendance System
+S0769,"Django, ML",Finance,Full-time,Research,Mental Health UI Toolkit
+S0770,"C++, ML",Social Impact,Part-time,Technical,Smart Attendance System
+S0771,"TensorFlow, Python, Figma, NodeJS",Automation,Full-time,Technical,E-learning Gamification Platform
+S0772,"C++, TensorFlow, React, Django",Healthcare,Full-time,Technical,Smart Attendance System
+S0773,"React, Figma, AI, ML",Social Impact,Full-time,Creative,Finance Tracker Web App
+S0774,"TensorFlow, Figma, NodeJS, Django",Automation,Full-time,Technical,Voice-based Email Client
+S0775,"TensorFlow, C++, NodeJS, Flask",Education,Part-time,Research,Blockchain Voting System
+S0776,"React, JavaScript",Healthcare,Full-time,Creative,Voice-based Email Client
+S0777,"Figma, NodeJS, Python, TensorFlow",Healthcare,Full-time,Research,AI-powered Diet Planner
+S0778,"Java, JavaScript, TensorFlow",Automation,Full-time,Creative,Voice-based Email Client
+S0779,"JavaScript, NodeJS, Java, C++",Cybersecurity,Full-time,Creative,Finance Tracker Web App
+S0780,"NodeJS, JavaScript, Django, TensorFlow",Automation,Full-time,Research,Automated Resume Screener
+S0781,"TensorFlow, React",Automation,Full-time,Creative,Voice-based Email Client
+S0782,"AI, Flask, NodeJS, Figma",Climate,Part-time,Technical,Voice-based Email Client
+S0783,"Keras, TensorFlow, Django",Education,Full-time,Research,Finance Tracker Web App
+S0784,"Flask, Python, React",Healthcare,Part-time,Research,E-learning Gamification Platform
+S0785,"React, Figma, C++, TensorFlow",Automation,Full-time,Technical,Finance Tracker Web App
+S0786,"React, Python, Figma",Social Impact,Part-time,Creative,AI-powered Diet Planner
+S0787,"JavaScript, Figma, Java, AI",Education,Full-time,Technical,Blockchain Voting System
+S0788,"Java, AI",Education,Full-time,Technical,Blockchain Voting System
+S0789,"ML, JavaScript, Django, Figma",Climate,Part-time,Research,Chatbot for Students
+S0790,"JavaScript, C++",Cybersecurity,Full-time,Technical,Mental Health UI Toolkit
+S0791,"C++, Keras, Django, ML",Climate,Full-time,Creative,Voice-based Email Client
+S0792,"TensorFlow, Figma",Finance,Full-time,Creative,Smart Attendance System
+S0793,"React, Keras",Finance,Full-time,Creative,Voice-based Email Client
+S0794,"Keras, C++, TensorFlow, NodeJS",Climate,Full-time,Research,Chatbot for Students
+S0795,"Figma, ML",Social Impact,Part-time,Technical,Voice-based Email Client
+S0796,"NodeJS, ML, Flask",Climate,Part-time,Technical,Smart Attendance System
+S0797,"Figma, Django",Education,Part-time,Technical,Voice-based Email Client
+S0798,"NodeJS, Figma, Java",Finance,Part-time,Creative,Automated Resume Screener
+S0799,"JavaScript, C++",Climate,Full-time,Research,Blockchain Voting System
+S0800,"NodeJS, TensorFlow, Python",Education,Full-time,Research,AI-powered Diet Planner
+S0801,"NodeJS, AI",Healthcare,Full-time,Research,E-learning Gamification Platform
+S0802,"C++, TensorFlow, Flask",Social Impact,Part-time,Creative,Blockchain Voting System
+S0803,"Flask, Keras, Figma",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S0804,"Figma, JavaScript",Education,Full-time,Technical,Automated Resume Screener
+S0805,"Figma, React",Finance,Full-time,Technical,Smart Attendance System
+S0806,"Flask, Python, JavaScript",Cybersecurity,Full-time,Technical,Smart Attendance System
+S0807,"Keras, C++, Flask",Climate,Full-time,Research,Smart Attendance System
+S0808,"NodeJS, Keras",Climate,Part-time,Technical,Mental Health UI Toolkit
+S0809,"React, Keras, Django",Climate,Full-time,Research,Voice-based Email Client
+S0810,"Java, Flask, NodeJS, ML",Automation,Full-time,Creative,E-learning Gamification Platform
+S0811,"React, Flask, ML, C++",Finance,Part-time,Creative,Automated Resume Screener
+S0812,"Flask, Keras, NodeJS, ML",Automation,Full-time,Research,Chatbot for Students
+S0813,"Python, Figma",Climate,Part-time,Research,Smart Attendance System
+S0814,"ML, Python, NodeJS, Flask",Automation,Part-time,Technical,AI-powered Diet Planner
+S0815,"AI, JavaScript, React",Healthcare,Part-time,Research,Finance Tracker Web App
+S0816,"NodeJS, Flask, Django, Java",Cybersecurity,Part-time,Technical,Chatbot for Students
+S0817,"JavaScript, C++, Python, AI",Automation,Full-time,Creative,AI-powered Diet Planner
+S0818,"TensorFlow, JavaScript, Python",Education,Full-time,Research,Automated Resume Screener
+S0819,"Java, Flask",Healthcare,Full-time,Technical,Automated Resume Screener
+S0820,"NodeJS, Python",Education,Part-time,Research,Finance Tracker Web App
+S0821,"AI, Django, React, ML",Climate,Full-time,Technical,Mental Health UI Toolkit
+S0822,"Flask, Keras, Figma",Automation,Part-time,Technical,AI-powered Diet Planner
+S0823,"AI, Python",Social Impact,Part-time,Creative,Chatbot for Students
+S0824,"React, Figma, C++",Social Impact,Full-time,Creative,Chatbot for Students
+S0825,"JavaScript, ML, NodeJS, Keras",Healthcare,Full-time,Creative,Automated Resume Screener
+S0826,"AI, Java, NodeJS, C++",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S0827,"TensorFlow, Flask",Climate,Full-time,Research,Mental Health UI Toolkit
+S0828,"C++, TensorFlow, Keras, JavaScript",Automation,Part-time,Creative,Chatbot for Students
+S0829,"Flask, Figma",Education,Part-time,Research,AI-powered Diet Planner
+S0830,"NodeJS, React",Automation,Part-time,Technical,Blockchain Voting System
+S0831,"C++, Django",Social Impact,Part-time,Research,Finance Tracker Web App
+S0832,"NodeJS, JavaScript, Python, Keras",Climate,Part-time,Technical,Automated Resume Screener
+S0833,"TensorFlow, Flask",Cybersecurity,Full-time,Creative,E-learning Gamification Platform
+S0834,"JavaScript, Django, Flask, Python",Climate,Full-time,Research,Blockchain Voting System
+S0835,"Django, JavaScript",Healthcare,Part-time,Creative,Blockchain Voting System
+S0836,"JavaScript, Figma, Java",Finance,Full-time,Creative,Smart Attendance System
+S0837,"JavaScript, AI, Java",Finance,Full-time,Creative,AI-powered Diet Planner
+S0838,"Python, Java, Flask",Finance,Full-time,Technical,E-learning Gamification Platform
+S0839,"Figma, C++, ML, Python",Education,Full-time,Technical,AI-powered Diet Planner
+S0840,"NodeJS, TensorFlow, Java, ML",Social Impact,Full-time,Technical,Blockchain Voting System
+S0841,"JavaScript, Figma, TensorFlow, ML",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S0842,"ML, Java, JavaScript, React",Social Impact,Part-time,Research,Automated Resume Screener
+S0843,"Keras, Java, Figma",Healthcare,Full-time,Creative,Automated Resume Screener
+S0844,"Python, Figma",Social Impact,Part-time,Creative,Mental Health UI Toolkit
+S0845,"AI, NodeJS, TensorFlow, Keras",Education,Part-time,Research,Smart Attendance System
+S0846,"Flask, C++, React, NodeJS",Automation,Part-time,Research,E-learning Gamification Platform
+S0847,"ML, Django, C++, AI",Automation,Part-time,Research,AI-powered Diet Planner
+S0848,"Django, Flask, C++, AI",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S0849,"JavaScript, C++",Automation,Part-time,Technical,Voice-based Email Client
+S0850,"Figma, C++, React",Healthcare,Full-time,Research,AI-powered Diet Planner
+S0851,"ML, AI, Keras, React",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S0852,"Keras, JavaScript",Finance,Full-time,Research,E-learning Gamification Platform
+S0853,"Java, AI, Django, C++",Education,Full-time,Technical,AI-powered Diet Planner
+S0854,"Python, Django, React",Healthcare,Full-time,Creative,Smart Attendance System
+S0855,"ML, NodeJS",Finance,Full-time,Creative,Chatbot for Students
+S0856,"C++, JavaScript, Java",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S0857,"C++, Flask, Django, ML",Healthcare,Part-time,Research,Smart Attendance System
+S0858,"Python, ML, C++, Figma",Healthcare,Full-time,Technical,Mental Health UI Toolkit
+S0859,"JavaScript, Figma, TensorFlow, ML",Education,Full-time,Creative,Chatbot for Students
+S0860,"NodeJS, Flask",Education,Part-time,Technical,Mental Health UI Toolkit
+S0861,"C++, Python, JavaScript, NodeJS",Climate,Full-time,Research,E-learning Gamification Platform
+S0862,"JavaScript, C++",Climate,Part-time,Research,Chatbot for Students
+S0863,"AI, NodeJS, React, Python",Education,Full-time,Research,Mental Health UI Toolkit
+S0864,"ML, C++, Java",Finance,Full-time,Research,Voice-based Email Client
+S0865,"Java, Keras, JavaScript, AI",Climate,Part-time,Research,E-learning Gamification Platform
+S0866,"NodeJS, Figma",Social Impact,Full-time,Technical,Voice-based Email Client
+S0867,"Java, React, Flask",Automation,Part-time,Technical,AI-powered Diet Planner
+S0868,"Python, C++",Education,Full-time,Creative,Smart Attendance System
+S0869,"Flask, Python",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S0870,"NodeJS, TensorFlow",Climate,Full-time,Creative,E-learning Gamification Platform
+S0871,"Flask, Figma",Climate,Full-time,Research,Smart Attendance System
+S0872,"Django, JavaScript",Cybersecurity,Full-time,Creative,Finance Tracker Web App
+S0873,"React, AI",Social Impact,Part-time,Technical,Smart Attendance System
+S0874,"Keras, JavaScript, NodeJS",Education,Full-time,Creative,Automated Resume Screener
+S0875,"AI, React, JavaScript",Climate,Full-time,Creative,Chatbot for Students
+S0876,"AI, React, Python, Django",Climate,Full-time,Research,Finance Tracker Web App
+S0877,"Keras, NodeJS, React, Flask",Climate,Full-time,Research,Blockchain Voting System
+S0878,"Java, Django, ML, Python",Education,Part-time,Creative,Smart Attendance System
+S0879,"Python, Flask, NodeJS",Education,Full-time,Technical,Chatbot for Students
+S0880,"Java, JavaScript, Django",Education,Part-time,Research,Mental Health UI Toolkit
+S0881,"React, Python, Figma",Finance,Full-time,Technical,Mental Health UI Toolkit
+S0882,"JavaScript, NodeJS, Keras",Social Impact,Part-time,Research,E-learning Gamification Platform
+S0883,"Flask, React, Figma",Social Impact,Full-time,Creative,Voice-based Email Client
+S0884,"React, Python, ML, Flask",Climate,Part-time,Research,Mental Health UI Toolkit
+S0885,"TensorFlow, React, Figma",Social Impact,Full-time,Creative,Voice-based Email Client
+S0886,"JavaScript, TensorFlow, C++",Healthcare,Full-time,Technical,Smart Attendance System
+S0887,"Java, AI, Python, Figma",Climate,Part-time,Technical,Blockchain Voting System
+S0888,"Keras, NodeJS, Django",Cybersecurity,Full-time,Technical,Chatbot for Students
+S0889,"Django, Python",Finance,Part-time,Research,Voice-based Email Client
+S0890,"Flask, Figma, Java, NodeJS",Education,Part-time,Research,Chatbot for Students
+S0891,"Python, C++, JavaScript, React",Finance,Part-time,Research,Automated Resume Screener
+S0892,"C++, React, Flask",Climate,Full-time,Technical,E-learning Gamification Platform
+S0893,"JavaScript, Django, Flask",Cybersecurity,Part-time,Research,E-learning Gamification Platform
+S0894,"Figma, Python, React, Keras",Education,Full-time,Technical,AI-powered Diet Planner
+S0895,"Python, C++",Automation,Part-time,Research,Chatbot for Students
+S0896,"Python, NodeJS, React",Finance,Full-time,Technical,Automated Resume Screener
+S0897,"JavaScript, React, Flask, Django",Finance,Part-time,Research,Voice-based Email Client
+S0898,"Django, Keras, C++",Education,Full-time,Technical,Chatbot for Students
+S0899,"Java, AI",Social Impact,Part-time,Technical,Blockchain Voting System
+S0900,"AI, ML",Finance,Part-time,Creative,Mental Health UI Toolkit
+S0901,"TensorFlow, NodeJS, React",Healthcare,Full-time,Technical,Automated Resume Screener
+S0902,"Keras, NodeJS, React, Java",Automation,Full-time,Technical,E-learning Gamification Platform
+S0903,"ML, Java, TensorFlow",Social Impact,Part-time,Creative,Automated Resume Screener
+S0904,"Figma, Python, JavaScript",Social Impact,Part-time,Creative,E-learning Gamification Platform
+S0905,"Figma, AI, React",Finance,Full-time,Research,Smart Attendance System
+S0906,"NodeJS, AI, Flask",Healthcare,Full-time,Technical,Smart Attendance System
+S0907,"Python, NodeJS, C++, Java",Social Impact,Part-time,Research,Automated Resume Screener
+S0908,"TensorFlow, Keras",Social Impact,Part-time,Creative,Smart Attendance System
+S0909,"React, Python, AI, Java",Automation,Part-time,Research,E-learning Gamification Platform
+S0910,"JavaScript, Java",Climate,Part-time,Research,Blockchain Voting System
+S0911,"C++, Django, ML",Healthcare,Part-time,Technical,AI-powered Diet Planner
+S0912,"Keras, C++, Django, Flask",Social Impact,Full-time,Creative,Voice-based Email Client
+S0913,"AI, Django, ML",Healthcare,Full-time,Research,Automated Resume Screener
+S0914,"Flask, AI, Keras, React",Climate,Part-time,Technical,Blockchain Voting System
+S0915,"Django, React, Java, Keras",Social Impact,Full-time,Research,Smart Attendance System
+S0916,"React, ML",Cybersecurity,Part-time,Research,E-learning Gamification Platform
+S0917,"Django, ML",Automation,Full-time,Technical,Chatbot for Students
+S0918,"ML, Django",Cybersecurity,Part-time,Research,Blockchain Voting System
+S0919,"ML, Keras, Java, Figma",Healthcare,Full-time,Technical,E-learning Gamification Platform
+S0920,"Django, Figma, NodeJS",Cybersecurity,Full-time,Creative,Automated Resume Screener
+S0921,"Keras, NodeJS, Figma",Healthcare,Full-time,Creative,AI-powered Diet Planner
+S0922,"Java, NodeJS, Flask",Healthcare,Full-time,Research,Blockchain Voting System
+S0923,"React, NodeJS, JavaScript",Automation,Part-time,Creative,AI-powered Diet Planner
+S0924,"AI, NodeJS",Climate,Full-time,Research,AI-powered Diet Planner
+S0925,"Keras, React",Finance,Full-time,Technical,Blockchain Voting System
+S0926,"Flask, JavaScript, Keras",Automation,Part-time,Technical,Finance Tracker Web App
+S0927,"JavaScript, Figma, Java, AI",Healthcare,Full-time,Creative,Smart Attendance System
+S0928,"React, JavaScript, Java",Education,Part-time,Research,AI-powered Diet Planner
+S0929,"NodeJS, TensorFlow, C++, ML",Cybersecurity,Part-time,Creative,Automated Resume Screener
+S0930,"Figma, Keras, JavaScript, Django",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S0931,"Python, AI",Education,Part-time,Research,Voice-based Email Client
+S0932,"Keras, C++, Figma, Flask",Education,Full-time,Research,Blockchain Voting System
+S0933,"Java, NodeJS, JavaScript",Healthcare,Full-time,Creative,Voice-based Email Client
+S0934,"Figma, JavaScript, C++",Finance,Full-time,Research,Voice-based Email Client
+S0935,"Python, Flask",Education,Full-time,Research,Finance Tracker Web App
+S0936,"Django, ML, Java, Keras",Automation,Full-time,Creative,E-learning Gamification Platform
+S0937,"AI, Python, NodeJS",Automation,Full-time,Research,Smart Attendance System
+S0938,"Figma, Keras, Java, NodeJS",Climate,Full-time,Technical,E-learning Gamification Platform
+S0939,"Java, React, Django",Education,Part-time,Creative,Mental Health UI Toolkit
+S0940,"ML, C++, NodeJS, Python",Automation,Part-time,Technical,E-learning Gamification Platform
+S0941,"ML, JavaScript, Java, TensorFlow",Finance,Full-time,Creative,Finance Tracker Web App
+S0942,"AI, React, NodeJS, Keras",Social Impact,Full-time,Technical,Blockchain Voting System
+S0943,"TensorFlow, Django, Java",Automation,Full-time,Creative,Voice-based Email Client
+S0944,"NodeJS, Java, Python",Healthcare,Full-time,Creative,Automated Resume Screener
+S0945,"Figma, AI",Climate,Part-time,Creative,Mental Health UI Toolkit
+S0946,"Keras, Java, Python",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S0947,"React, NodeJS, JavaScript, Django",Automation,Part-time,Research,Finance Tracker Web App
+S0948,"Java, Python",Automation,Full-time,Creative,Smart Attendance System
+S0949,"Java, ML",Automation,Part-time,Research,E-learning Gamification Platform
+S0950,"Java, Flask, ML, C++",Education,Full-time,Research,Voice-based Email Client
+S0951,"Python, TensorFlow, React, NodeJS",Healthcare,Part-time,Research,AI-powered Diet Planner
+S0952,"ML, TensorFlow, NodeJS",Education,Part-time,Creative,Smart Attendance System
+S0953,"NodeJS, Keras, Java",Social Impact,Full-time,Research,Blockchain Voting System
+S0954,"Python, AI, ML, Flask",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S0955,"Python, NodeJS, Java",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S0956,"ML, C++",Automation,Full-time,Creative,Blockchain Voting System
+S0957,"Java, AI, C++, TensorFlow",Climate,Full-time,Research,Mental Health UI Toolkit
+S0958,"Figma, ML, AI",Finance,Full-time,Creative,Smart Attendance System
+S0959,"Figma, AI, Django",Education,Full-time,Research,AI-powered Diet Planner
+S0960,"Keras, NodeJS, JavaScript, C++",Finance,Part-time,Research,Chatbot for Students
+S0961,"React, Figma, Keras, C++",Social Impact,Full-time,Creative,Smart Attendance System
+S0962,"AI, ML",Social Impact,Part-time,Research,Automated Resume Screener
+S0963,"JavaScript, Python",Cybersecurity,Full-time,Technical,E-learning Gamification Platform
+S0964,"JavaScript, TensorFlow, NodeJS",Cybersecurity,Full-time,Technical,Voice-based Email Client
+S0965,"ML, React, Figma, JavaScript",Social Impact,Part-time,Technical,Blockchain Voting System
+S0966,"AI, Figma, Python, React",Automation,Part-time,Research,Smart Attendance System
+S0967,"Java, Keras, JavaScript",Climate,Part-time,Research,Blockchain Voting System
+S0968,"NodeJS, Flask",Social Impact,Part-time,Technical,Finance Tracker Web App
+S0969,"AI, TensorFlow, Java, JavaScript",Education,Part-time,Research,AI-powered Diet Planner
+S0970,"NodeJS, ML, React",Education,Full-time,Research,Smart Attendance System
+S0971,"Figma, ML",Education,Full-time,Technical,Mental Health UI Toolkit
+S0972,"C++, JavaScript, ML, NodeJS",Climate,Part-time,Creative,Finance Tracker Web App
+S0973,"Flask, NodeJS, Python, Keras",Climate,Full-time,Research,Finance Tracker Web App
+S0974,"Keras, Python, ML",Education,Full-time,Technical,Mental Health UI Toolkit
+S0975,"Java, React, Figma, ML",Climate,Full-time,Technical,AI-powered Diet Planner
+S0976,"NodeJS, AI, Python, Keras",Finance,Part-time,Research,Mental Health UI Toolkit
+S0977,"C++, Java, ML, Flask",Social Impact,Full-time,Technical,Voice-based Email Client
+S0978,"Keras, NodeJS, Flask, ML",Education,Full-time,Technical,AI-powered Diet Planner
+S0979,"TensorFlow, AI, React, NodeJS",Finance,Full-time,Research,Automated Resume Screener
+S0980,"Django, ML",Social Impact,Part-time,Creative,Automated Resume Screener
+S0981,"C++, TensorFlow, AI, Java",Climate,Part-time,Technical,Automated Resume Screener
+S0982,"AI, TensorFlow",Education,Full-time,Technical,Mental Health UI Toolkit
+S0983,"Python, JavaScript",Education,Full-time,Creative,Finance Tracker Web App
+S0984,"TensorFlow, NodeJS",Automation,Full-time,Research,Finance Tracker Web App
+S0985,"Java, NodeJS, Flask",Healthcare,Part-time,Creative,Finance Tracker Web App
+S0986,"TensorFlow, Keras, JavaScript",Finance,Full-time,Technical,Mental Health UI Toolkit
+S0987,"JavaScript, Flask, Java",Social Impact,Full-time,Creative,Voice-based Email Client
+S0988,"TensorFlow, AI, Figma",Finance,Full-time,Technical,Mental Health UI Toolkit
+S0989,"Figma, Flask, NodeJS, TensorFlow",Finance,Part-time,Research,Smart Attendance System
+S0990,"Keras, Python, JavaScript, React",Social Impact,Full-time,Creative,Automated Resume Screener
+S0991,"Flask, TensorFlow, C++, ML",Automation,Part-time,Creative,Finance Tracker Web App
+S0992,"Figma, Python, ML, Flask",Cybersecurity,Full-time,Creative,Smart Attendance System
+S0993,"Keras, React, Java, Django",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S0994,"AI, Flask, Keras, TensorFlow",Cybersecurity,Part-time,Creative,Chatbot for Students
+S0995,"TensorFlow, Keras, Django",Automation,Part-time,Technical,Automated Resume Screener
+S0996,"Django, C++",Social Impact,Part-time,Creative,Chatbot for Students
+S0997,"Python, React, C++",Healthcare,Part-time,Research,E-learning Gamification Platform
+S0998,"JavaScript, TensorFlow",Finance,Full-time,Research,Automated Resume Screener
+S0999,"Java, AI, JavaScript",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S1000,"JavaScript, Python, ML",Finance,Full-time,Research,Automated Resume Screener
+S1001,"C++, React, NodeJS, Python",Climate,Full-time,Technical,Voice-based Email Client
+S1002,"React, AI",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1003,"JavaScript, TensorFlow, Python",Automation,Full-time,Creative,Blockchain Voting System
+S1004,"Django, C++, AI",Education,Part-time,Technical,Smart Attendance System
+S1005,"TensorFlow, JavaScript, NodeJS",Education,Part-time,Technical,Blockchain Voting System
+S1006,"Flask, Java",Finance,Full-time,Research,Voice-based Email Client
+S1007,"ML, JavaScript, Java",Healthcare,Full-time,Technical,Blockchain Voting System
+S1008,"Django, Keras, ML, TensorFlow",Education,Full-time,Creative,Chatbot for Students
+S1009,"NodeJS, C++, JavaScript",Climate,Full-time,Technical,Finance Tracker Web App
+S1010,"Java, NodeJS, Keras, Figma",Finance,Part-time,Research,Mental Health UI Toolkit
+S1011,"JavaScript, C++, Java",Education,Part-time,Research,E-learning Gamification Platform
+S1012,"ML, Figma",Social Impact,Part-time,Research,Automated Resume Screener
+S1013,"JavaScript, C++, Java, TensorFlow",Education,Full-time,Technical,Chatbot for Students
+S1014,"Keras, JavaScript, Python, Flask",Finance,Part-time,Technical,Finance Tracker Web App
+S1015,"Keras, ML",Social Impact,Part-time,Technical,Blockchain Voting System
+S1016,"TensorFlow, Flask",Healthcare,Part-time,Technical,Automated Resume Screener
+S1017,"Keras, Python, NodeJS",Cybersecurity,Part-time,Technical,E-learning Gamification Platform
+S1018,"TensorFlow, C++",Education,Full-time,Technical,Smart Attendance System
+S1019,"Keras, JavaScript",Social Impact,Part-time,Technical,Automated Resume Screener
+S1020,"Django, Python",Climate,Full-time,Creative,Smart Attendance System
+S1021,"C++, Figma",Finance,Full-time,Technical,E-learning Gamification Platform
+S1022,"JavaScript, Java",Education,Part-time,Technical,E-learning Gamification Platform
+S1023,"Keras, C++",Cybersecurity,Full-time,Research,Blockchain Voting System
+S1024,"Python, C++",Automation,Full-time,Research,E-learning Gamification Platform
+S1025,"AI, React",Education,Full-time,Creative,Voice-based Email Client
+S1026,"Python, Keras",Automation,Part-time,Technical,E-learning Gamification Platform
+S1027,"Flask, NodeJS, ML, Django",Automation,Part-time,Creative,Smart Attendance System
+S1028,"Figma, TensorFlow, React",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1029,"JavaScript, C++, ML, AI",Healthcare,Full-time,Creative,Smart Attendance System
+S1030,"Figma, Flask, Keras",Finance,Part-time,Research,Chatbot for Students
+S1031,"TensorFlow, AI, Figma, Keras",Social Impact,Full-time,Research,Finance Tracker Web App
+S1032,"ML, Flask, Java, NodeJS",Education,Full-time,Creative,E-learning Gamification Platform
+S1033,"Keras, Flask",Education,Full-time,Research,Blockchain Voting System
+S1034,"Flask, Figma",Cybersecurity,Part-time,Creative,Automated Resume Screener
+S1035,"JavaScript, Flask, AI, Django",Healthcare,Full-time,Technical,Finance Tracker Web App
+S1036,"JavaScript, Figma, React, ML",Automation,Full-time,Technical,Blockchain Voting System
+S1037,"Java, Django",Finance,Part-time,Creative,AI-powered Diet Planner
+S1038,"React, TensorFlow",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1039,"Keras, Flask, React, NodeJS",Education,Part-time,Research,Automated Resume Screener
+S1040,"Flask, NodeJS, JavaScript, Python",Healthcare,Full-time,Research,E-learning Gamification Platform
+S1041,"Python, JavaScript, Django, Figma",Automation,Full-time,Creative,Chatbot for Students
+S1042,"TensorFlow, Python, Figma",Automation,Part-time,Technical,Automated Resume Screener
+S1043,"Java, Django",Cybersecurity,Part-time,Research,AI-powered Diet Planner
+S1044,"React, AI, Django",Cybersecurity,Part-time,Creative,Automated Resume Screener
+S1045,"NodeJS, Keras, AI",Social Impact,Full-time,Technical,Finance Tracker Web App
+S1046,"ML, Python",Climate,Part-time,Creative,E-learning Gamification Platform
+S1047,"Python, Figma",Climate,Full-time,Technical,E-learning Gamification Platform
+S1048,"JavaScript, Figma, C++, Flask",Climate,Full-time,Creative,Smart Attendance System
+S1049,"JavaScript, NodeJS, Flask, Django",Cybersecurity,Part-time,Creative,E-learning Gamification Platform
+S1050,"Java, AI",Social Impact,Full-time,Creative,Automated Resume Screener
+S1051,"C++, Python",Climate,Full-time,Research,Finance Tracker Web App
+S1052,"C++, Java",Education,Part-time,Technical,Automated Resume Screener
+S1053,"Flask, Keras, C++",Finance,Part-time,Technical,Voice-based Email Client
+S1054,"Figma, NodeJS, TensorFlow",Climate,Full-time,Creative,Automated Resume Screener
+S1055,"NodeJS, React",Social Impact,Part-time,Creative,Automated Resume Screener
+S1056,"Figma, JavaScript, Keras",Finance,Part-time,Creative,Finance Tracker Web App
+S1057,"C++, Flask, Django, AI",Finance,Part-time,Creative,Smart Attendance System
+S1058,"ML, Python",Climate,Full-time,Technical,E-learning Gamification Platform
+S1059,"AI, TensorFlow, JavaScript",Social Impact,Full-time,Creative,E-learning Gamification Platform
+S1060,"NodeJS, Django, React, C++",Climate,Part-time,Technical,Mental Health UI Toolkit
+S1061,"AI, TensorFlow, Django",Education,Full-time,Creative,Blockchain Voting System
+S1062,"Python, TensorFlow, NodeJS",Education,Full-time,Technical,Voice-based Email Client
+S1063,"ML, Flask, Keras",Finance,Full-time,Creative,AI-powered Diet Planner
+S1064,"AI, JavaScript, Keras",Healthcare,Full-time,Research,Smart Attendance System
+S1065,"Java, React, AI",Healthcare,Part-time,Technical,Finance Tracker Web App
+S1066,"Python, Figma, NodeJS",Social Impact,Full-time,Research,Chatbot for Students
+S1067,"Flask, AI, ML, Java",Education,Full-time,Technical,Automated Resume Screener
+S1068,"C++, JavaScript, Flask",Healthcare,Full-time,Creative,Chatbot for Students
+S1069,"TensorFlow, React",Education,Part-time,Creative,Automated Resume Screener
+S1070,"C++, Flask",Finance,Full-time,Research,Smart Attendance System
+S1071,"Keras, JavaScript",Climate,Full-time,Research,Smart Attendance System
+S1072,"Python, Java, NodeJS, Figma",Automation,Full-time,Creative,Voice-based Email Client
+S1073,"React, Java",Healthcare,Part-time,Creative,Blockchain Voting System
+S1074,"TensorFlow, Python",Healthcare,Part-time,Technical,Smart Attendance System
+S1075,"JavaScript, Figma, TensorFlow",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S1076,"Keras, AI, Flask",Finance,Full-time,Creative,Finance Tracker Web App
+S1077,"ML, AI, Python, Keras",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1078,"Django, TensorFlow, Java, C++",Healthcare,Part-time,Creative,Mental Health UI Toolkit
+S1079,"AI, C++, Flask, Java",Education,Part-time,Technical,Chatbot for Students
+S1080,"React, JavaScript, ML, NodeJS",Automation,Part-time,Technical,AI-powered Diet Planner
+S1081,"AI, JavaScript",Social Impact,Part-time,Creative,Chatbot for Students
+S1082,"Django, Figma",Healthcare,Part-time,Technical,Chatbot for Students
+S1083,"Figma, Java",Automation,Part-time,Creative,E-learning Gamification Platform
+S1084,"Python, Keras, Flask, Java",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1085,"JavaScript, Figma, Flask, Django",Finance,Full-time,Technical,Smart Attendance System
+S1086,"TensorFlow, AI, React",Finance,Full-time,Research,Blockchain Voting System
+S1087,"ML, Keras, Django",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1088,"Python, Figma, Keras",Healthcare,Part-time,Creative,E-learning Gamification Platform
+S1089,"AI, JavaScript, ML, Django",Education,Full-time,Creative,Mental Health UI Toolkit
+S1090,"C++, ML, Java, Figma",Cybersecurity,Full-time,Research,Automated Resume Screener
+S1091,"Keras, JavaScript",Education,Full-time,Technical,Chatbot for Students
+S1092,"NodeJS, Django, C++, Java",Healthcare,Part-time,Research,Blockchain Voting System
+S1093,"C++, Flask",Social Impact,Full-time,Creative,Smart Attendance System
+S1094,"Django, Keras, React",Education,Full-time,Creative,Finance Tracker Web App
+S1095,"Figma, React",Automation,Full-time,Research,Smart Attendance System
+S1096,"AI, TensorFlow",Healthcare,Part-time,Research,AI-powered Diet Planner
+S1097,"Python, Java, TensorFlow, Figma",Education,Full-time,Research,E-learning Gamification Platform
+S1098,"TensorFlow, Python, Flask, AI",Automation,Part-time,Technical,AI-powered Diet Planner
+S1099,"React, AI, Django",Education,Part-time,Creative,Smart Attendance System
+S1100,"C++, JavaScript, Keras, AI",Automation,Part-time,Creative,Finance Tracker Web App
+S1101,"Flask, Java, TensorFlow",Cybersecurity,Full-time,Creative,AI-powered Diet Planner
+S1102,"TensorFlow, NodeJS, Java",Education,Part-time,Creative,Mental Health UI Toolkit
+S1103,"Python, React, Django",Automation,Full-time,Technical,Finance Tracker Web App
+S1104,"AI, React, C++, ML",Social Impact,Part-time,Creative,Mental Health UI Toolkit
+S1105,"ML, C++, Python",Healthcare,Part-time,Creative,Automated Resume Screener
+S1106,"AI, React, Flask, ML",Automation,Full-time,Creative,Blockchain Voting System
+S1107,"Python, Figma, TensorFlow, Keras",Education,Part-time,Technical,Blockchain Voting System
+S1108,"Python, NodeJS, Keras",Automation,Part-time,Creative,Chatbot for Students
+S1109,"JavaScript, Python",Climate,Part-time,Creative,Finance Tracker Web App
+S1110,"AI, ML",Education,Part-time,Creative,Mental Health UI Toolkit
+S1111,"React, JavaScript, C++, NodeJS",Cybersecurity,Full-time,Research,Smart Attendance System
+S1112,"Figma, Keras",Climate,Part-time,Technical,Automated Resume Screener
+S1113,"Keras, TensorFlow, Figma",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S1114,"ML, Flask, TensorFlow",Climate,Full-time,Research,AI-powered Diet Planner
+S1115,"Figma, NodeJS",Finance,Part-time,Research,Smart Attendance System
+S1116,"AI, C++, Django",Cybersecurity,Part-time,Research,Automated Resume Screener
+S1117,"Python, Java, Keras, TensorFlow",Climate,Full-time,Research,Blockchain Voting System
+S1118,"NodeJS, TensorFlow, C++",Climate,Full-time,Creative,E-learning Gamification Platform
+S1119,"Flask, React, NodeJS, JavaScript",Healthcare,Full-time,Creative,Mental Health UI Toolkit
+S1120,"Flask, TensorFlow",Climate,Part-time,Research,Smart Attendance System
+S1121,"React, Flask, AI",Education,Full-time,Creative,Mental Health UI Toolkit
+S1122,"Django, JavaScript",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S1123,"TensorFlow, Figma, Java",Climate,Part-time,Technical,Automated Resume Screener
+S1124,"Django, AI, Java",Cybersecurity,Full-time,Technical,Voice-based Email Client
+S1125,"TensorFlow, NodeJS, React",Climate,Full-time,Technical,Voice-based Email Client
+S1126,"Python, TensorFlow, Flask",Finance,Part-time,Creative,Mental Health UI Toolkit
+S1127,"React, TensorFlow, AI",Healthcare,Part-time,Technical,E-learning Gamification Platform
+S1128,"Flask, ML, TensorFlow, Django",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S1129,"ML, Figma",Cybersecurity,Part-time,Creative,AI-powered Diet Planner
+S1130,"Keras, Flask, ML, TensorFlow",Climate,Part-time,Creative,Voice-based Email Client
+S1131,"AI, Django, NodeJS, C++",Education,Full-time,Research,Mental Health UI Toolkit
+S1132,"ML, Java, TensorFlow",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S1133,"Figma, Java, Django, Python",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S1134,"NodeJS, Flask, C++",Climate,Part-time,Research,Finance Tracker Web App
+S1135,"ML, Flask, Django",Automation,Full-time,Technical,Blockchain Voting System
+S1136,"ML, NodeJS, Flask, Figma",Cybersecurity,Full-time,Research,E-learning Gamification Platform
+S1137,"Keras, ML",Healthcare,Part-time,Technical,Smart Attendance System
+S1138,"NodeJS, JavaScript, Python",Automation,Part-time,Research,Blockchain Voting System
+S1139,"AI, JavaScript, Figma, Keras",Automation,Part-time,Technical,E-learning Gamification Platform
+S1140,"Python, C++, ML, Flask",Climate,Part-time,Research,Mental Health UI Toolkit
+S1141,"TensorFlow, NodeJS",Healthcare,Full-time,Technical,Mental Health UI Toolkit
+S1142,"JavaScript, ML",Education,Part-time,Creative,Mental Health UI Toolkit
+S1143,"Figma, NodeJS, C++",Healthcare,Part-time,Creative,AI-powered Diet Planner
+S1144,"Python, AI",Education,Full-time,Technical,Voice-based Email Client
+S1145,"Keras, TensorFlow, AI",Healthcare,Part-time,Creative,AI-powered Diet Planner
+S1146,"Django, Keras",Healthcare,Part-time,Technical,E-learning Gamification Platform
+S1147,"React, Keras, Django",Social Impact,Part-time,Technical,Mental Health UI Toolkit
+S1148,"NodeJS, ML",Cybersecurity,Full-time,Research,Voice-based Email Client
+S1149,"JavaScript, Python, Figma, Flask",Climate,Full-time,Creative,Smart Attendance System
+S1150,"ML, React, Figma, Keras",Education,Full-time,Research,Finance Tracker Web App
+S1151,"Flask, React, Keras, Python",Automation,Part-time,Creative,Chatbot for Students
+S1152,"TensorFlow, ML, Figma, Flask",Education,Part-time,Technical,Chatbot for Students
+S1153,"Python, React, Keras, Figma",Education,Part-time,Research,E-learning Gamification Platform
+S1154,"ML, AI",Cybersecurity,Part-time,Creative,Smart Attendance System
+S1155,"JavaScript, Keras, TensorFlow, React",Climate,Full-time,Technical,AI-powered Diet Planner
+S1156,"C++, Python, Keras, JavaScript",Social Impact,Part-time,Creative,E-learning Gamification Platform
+S1157,"ML, Python",Social Impact,Part-time,Technical,Chatbot for Students
+S1158,"Java, TensorFlow, Python",Automation,Full-time,Creative,E-learning Gamification Platform
+S1159,"React, JavaScript, AI",Climate,Part-time,Research,AI-powered Diet Planner
+S1160,"NodeJS, ML, JavaScript, Django",Social Impact,Part-time,Technical,AI-powered Diet Planner
+S1161,"Django, Figma, AI",Automation,Full-time,Research,Mental Health UI Toolkit
+S1162,"NodeJS, Flask",Finance,Part-time,Creative,Mental Health UI Toolkit
+S1163,"Java, JavaScript, C++",Healthcare,Full-time,Research,Smart Attendance System
+S1164,"AI, React",Cybersecurity,Full-time,Technical,AI-powered Diet Planner
+S1165,"React, ML, C++, Django",Automation,Part-time,Creative,Blockchain Voting System
+S1166,"ML, React",Education,Part-time,Research,AI-powered Diet Planner
+S1167,"Django, Keras",Automation,Full-time,Creative,E-learning Gamification Platform
+S1168,"Figma, React, Python, Flask",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S1169,"C++, Django, TensorFlow",Cybersecurity,Part-time,Creative,AI-powered Diet Planner
+S1170,"TensorFlow, React, AI",Social Impact,Part-time,Research,Voice-based Email Client
+S1171,"React, Keras",Cybersecurity,Part-time,Technical,Blockchain Voting System
+S1172,"Figma, Java",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S1173,"Figma, Django, C++",Social Impact,Part-time,Research,AI-powered Diet Planner
+S1174,"ML, JavaScript, TensorFlow",Education,Part-time,Creative,Finance Tracker Web App
+S1175,"Python, AI",Automation,Full-time,Technical,Chatbot for Students
+S1176,"TensorFlow, JavaScript",Automation,Part-time,Research,Chatbot for Students
+S1177,"Python, Keras",Cybersecurity,Full-time,Creative,Chatbot for Students
+S1178,"ML, React, AI, NodeJS",Finance,Full-time,Research,Finance Tracker Web App
+S1179,"NodeJS, Figma, React, TensorFlow",Finance,Full-time,Creative,Finance Tracker Web App
+S1180,"AI, NodeJS, Figma, JavaScript",Finance,Full-time,Technical,Voice-based Email Client
+S1181,"TensorFlow, JavaScript, NodeJS",Climate,Part-time,Research,Automated Resume Screener
+S1182,"AI, Flask, JavaScript, Python",Automation,Full-time,Creative,Smart Attendance System
+S1183,"NodeJS, Figma",Finance,Part-time,Technical,Blockchain Voting System
+S1184,"TensorFlow, ML, JavaScript, Django",Finance,Full-time,Research,Blockchain Voting System
+S1185,"React, Django, Python",Cybersecurity,Part-time,Creative,Mental Health UI Toolkit
+S1186,"ML, Java",Healthcare,Full-time,Research,Mental Health UI Toolkit
+S1187,"JavaScript, Java",Healthcare,Full-time,Technical,Finance Tracker Web App
+S1188,"Java, React",Cybersecurity,Part-time,Research,Finance Tracker Web App
+S1189,"JavaScript, React, C++",Education,Full-time,Creative,Voice-based Email Client
+S1190,"Keras, Flask, TensorFlow, Django",Healthcare,Full-time,Technical,E-learning Gamification Platform
+S1191,"React, AI",Social Impact,Full-time,Technical,Smart Attendance System
+S1192,"Keras, AI, Django",Finance,Full-time,Creative,Automated Resume Screener
+S1193,"NodeJS, Django, Flask, Python",Healthcare,Full-time,Technical,Finance Tracker Web App
+S1194,"AI, JavaScript, Figma, Python",Social Impact,Part-time,Creative,Voice-based Email Client
+S1195,"ML, TensorFlow",Social Impact,Part-time,Creative,Voice-based Email Client
+S1196,"Keras, AI, TensorFlow, NodeJS",Social Impact,Full-time,Research,E-learning Gamification Platform
+S1197,"NodeJS, C++, AI",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1198,"TensorFlow, Figma, C++, Java",Climate,Full-time,Technical,Mental Health UI Toolkit
+S1199,"Java, Django",Automation,Part-time,Creative,E-learning Gamification Platform
+S1200,"JavaScript, Django, React",Education,Part-time,Creative,Blockchain Voting System
+S1201,"Python, Figma",Finance,Full-time,Technical,Chatbot for Students
+S1202,"Figma, C++",Climate,Part-time,Technical,Automated Resume Screener
+S1203,"React, TensorFlow, Python, Django",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S1204,"AI, Python, JavaScript, React",Cybersecurity,Part-time,Technical,Blockchain Voting System
+S1205,"AI, TensorFlow, NodeJS",Healthcare,Part-time,Research,Smart Attendance System
+S1206,"Flask, ML, Python, JavaScript",Automation,Full-time,Creative,Smart Attendance System
+S1207,"AI, JavaScript",Social Impact,Part-time,Research,E-learning Gamification Platform
+S1208,"AI, NodeJS, C++, Keras",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1209,"Keras, C++, React",Social Impact,Part-time,Technical,Automated Resume Screener
+S1210,"Django, NodeJS",Automation,Part-time,Technical,Finance Tracker Web App
+S1211,"C++, Django, JavaScript, Keras",Climate,Part-time,Research,Blockchain Voting System
+S1212,"Flask, Figma",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S1213,"NodeJS, JavaScript, Django",Automation,Full-time,Creative,Smart Attendance System
+S1214,"Figma, AI",Finance,Full-time,Research,E-learning Gamification Platform
+S1215,"JavaScript, Flask, AI",Cybersecurity,Part-time,Creative,Automated Resume Screener
+S1216,"Flask, Keras, AI, C++",Finance,Part-time,Creative,Chatbot for Students
+S1217,"AI, C++, TensorFlow",Finance,Part-time,Creative,Finance Tracker Web App
+S1218,"Java, Python, C++, ML",Social Impact,Part-time,Research,Voice-based Email Client
+S1219,"TensorFlow, AI",Healthcare,Full-time,Research,Smart Attendance System
+S1220,"C++, TensorFlow, NodeJS",Social Impact,Part-time,Technical,Blockchain Voting System
+S1221,"Figma, AI, C++",Cybersecurity,Part-time,Technical,Chatbot for Students
+S1222,"Python, React, Django",Finance,Full-time,Technical,AI-powered Diet Planner
+S1223,"Django, Java, Python, Flask",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S1224,"C++, Python",Climate,Full-time,Creative,Mental Health UI Toolkit
+S1225,"Django, React, AI, C++",Climate,Part-time,Research,E-learning Gamification Platform
+S1226,"React, JavaScript, Python, Flask",Finance,Full-time,Technical,Automated Resume Screener
+S1227,"NodeJS, Java, C++",Finance,Full-time,Technical,Smart Attendance System
+S1228,"Python, ML",Automation,Part-time,Creative,Automated Resume Screener
+S1229,"Java, AI, Python, Figma",Social Impact,Full-time,Creative,Voice-based Email Client
+S1230,"TensorFlow, Figma, ML",Social Impact,Part-time,Research,Smart Attendance System
+S1231,"TensorFlow, Flask, Figma",Education,Part-time,Technical,Voice-based Email Client
+S1232,"NodeJS, Keras, Python, AI",Cybersecurity,Part-time,Technical,Automated Resume Screener
+S1233,"Python, TensorFlow, NodeJS",Healthcare,Full-time,Technical,Automated Resume Screener
+S1234,"Python, C++, NodeJS",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S1235,"C++, ML, AI",Healthcare,Full-time,Research,Automated Resume Screener
+S1236,"Java, TensorFlow",Social Impact,Part-time,Creative,AI-powered Diet Planner
+S1237,"NodeJS, React",Cybersecurity,Part-time,Technical,Chatbot for Students
+S1238,"Keras, ML, TensorFlow",Cybersecurity,Full-time,Research,Automated Resume Screener
+S1239,"Figma, TensorFlow",Climate,Part-time,Technical,Mental Health UI Toolkit
+S1240,"Java, NodeJS, Python",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S1241,"C++, Keras, AI",Education,Full-time,Creative,Smart Attendance System
+S1242,"TensorFlow, JavaScript",Finance,Full-time,Research,Chatbot for Students
+S1243,"C++, Django",Automation,Part-time,Creative,Mental Health UI Toolkit
+S1244,"Flask, ML, Java, React",Finance,Part-time,Research,Finance Tracker Web App
+S1245,"C++, Keras, React",Automation,Full-time,Creative,E-learning Gamification Platform
+S1246,"AI, TensorFlow",Finance,Part-time,Creative,Automated Resume Screener
+S1247,"Keras, Python",Education,Full-time,Research,Chatbot for Students
+S1248,"Flask, Python, Java",Healthcare,Part-time,Research,Voice-based Email Client
+S1249,"ML, AI, Flask",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S1250,"JavaScript, Keras, Figma, Java",Education,Full-time,Research,E-learning Gamification Platform
+S1251,"TensorFlow, C++",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S1252,"React, JavaScript, NodeJS, Java",Automation,Full-time,Technical,Automated Resume Screener
+S1253,"Keras, React, ML, AI",Automation,Part-time,Research,Finance Tracker Web App
+S1254,"AI, Flask, C++, Figma",Social Impact,Part-time,Research,Finance Tracker Web App
+S1255,"Figma, NodeJS, TensorFlow",Climate,Part-time,Creative,Automated Resume Screener
+S1256,"NodeJS, React",Climate,Part-time,Technical,E-learning Gamification Platform
+S1257,"ML, Python",Healthcare,Part-time,Research,Smart Attendance System
+S1258,"React, C++",Climate,Full-time,Technical,Voice-based Email Client
+S1259,"AI, React, C++, Figma",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S1260,"Java, Flask, Keras",Education,Full-time,Technical,Voice-based Email Client
+S1261,"Keras, TensorFlow, ML, JavaScript",Cybersecurity,Part-time,Research,Automated Resume Screener
+S1262,"Java, TensorFlow, C++, JavaScript",Healthcare,Part-time,Research,AI-powered Diet Planner
+S1263,"Java, Django, Keras, JavaScript",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1264,"Keras, React",Healthcare,Part-time,Creative,Mental Health UI Toolkit
+S1265,"Flask, TensorFlow, Python, AI",Healthcare,Full-time,Technical,Voice-based Email Client
+S1266,"React, TensorFlow",Automation,Part-time,Research,AI-powered Diet Planner
+S1267,"Figma, ML, C++",Finance,Full-time,Technical,Finance Tracker Web App
+S1268,"Django, Figma",Climate,Full-time,Technical,Automated Resume Screener
+S1269,"React, Django, C++, Keras",Finance,Part-time,Creative,E-learning Gamification Platform
+S1270,"JavaScript, Figma, AI, Python",Social Impact,Full-time,Research,E-learning Gamification Platform
+S1271,"C++, Figma, ML, Keras",Healthcare,Part-time,Creative,Automated Resume Screener
+S1272,"NodeJS, TensorFlow",Education,Part-time,Creative,Mental Health UI Toolkit
+S1273,"Java, C++",Cybersecurity,Full-time,Creative,AI-powered Diet Planner
+S1274,"NodeJS, TensorFlow, AI",Finance,Part-time,Technical,Voice-based Email Client
+S1275,"AI, JavaScript, Python, Figma",Finance,Part-time,Technical,Voice-based Email Client
+S1276,"NodeJS, TensorFlow",Social Impact,Full-time,Research,Automated Resume Screener
+S1277,"ML, Flask, C++, Django",Cybersecurity,Part-time,Research,Mental Health UI Toolkit
+S1278,"React, JavaScript",Cybersecurity,Full-time,Creative,Chatbot for Students
+S1279,"Figma, Flask",Climate,Full-time,Technical,Chatbot for Students
+S1280,"Keras, Figma, C++, JavaScript",Education,Full-time,Creative,Voice-based Email Client
+S1281,"React, Figma, AI, Keras",Education,Part-time,Technical,E-learning Gamification Platform
+S1282,"NodeJS, Flask, TensorFlow, Figma",Social Impact,Full-time,Creative,Chatbot for Students
+S1283,"Keras, C++, NodeJS",Climate,Full-time,Creative,Automated Resume Screener
+S1284,"Django, JavaScript, Python, TensorFlow",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S1285,"ML, Figma, C++",Finance,Part-time,Research,E-learning Gamification Platform
+S1286,"TensorFlow, Django",Education,Part-time,Research,Chatbot for Students
+S1287,"Python, TensorFlow, Django, NodeJS",Finance,Part-time,Technical,Smart Attendance System
+S1288,"JavaScript, AI, TensorFlow, Java",Cybersecurity,Full-time,Research,Mental Health UI Toolkit
+S1289,"ML, Django",Education,Full-time,Creative,Finance Tracker Web App
+S1290,"Flask, Django",Cybersecurity,Full-time,Research,Blockchain Voting System
+S1291,"AI, Django, TensorFlow, Keras",Cybersecurity,Part-time,Creative,Finance Tracker Web App
+S1292,"Figma, Java",Cybersecurity,Part-time,Technical,E-learning Gamification Platform
+S1293,"Figma, NodeJS, TensorFlow, C++",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1294,"NodeJS, Keras, AI",Automation,Part-time,Creative,Automated Resume Screener
+S1295,"ML, Flask, Python",Healthcare,Part-time,Creative,AI-powered Diet Planner
+S1296,"NodeJS, C++, Django, ML",Climate,Full-time,Creative,Smart Attendance System
+S1297,"Figma, TensorFlow, AI",Finance,Part-time,Technical,Chatbot for Students
+S1298,"Python, Java, ML, Django",Social Impact,Part-time,Technical,E-learning Gamification Platform
+S1299,"Django, React",Finance,Full-time,Technical,Finance Tracker Web App
+S1300,"TensorFlow, Java, Python",Healthcare,Part-time,Creative,AI-powered Diet Planner
+S1301,"AI, Flask, Python",Education,Full-time,Research,Mental Health UI Toolkit
+S1302,"AI, Flask, ML, JavaScript",Automation,Full-time,Technical,Voice-based Email Client
+S1303,"React, JavaScript, NodeJS",Automation,Full-time,Creative,E-learning Gamification Platform
+S1304,"ML, Flask, Python",Cybersecurity,Full-time,Creative,AI-powered Diet Planner
+S1305,"TensorFlow, AI, Django",Climate,Part-time,Technical,AI-powered Diet Planner
+S1306,"Flask, Django",Healthcare,Full-time,Research,AI-powered Diet Planner
+S1307,"TensorFlow, Flask",Education,Part-time,Creative,Automated Resume Screener
+S1308,"C++, Java",Education,Part-time,Research,Chatbot for Students
+S1309,"Keras, Python",Healthcare,Full-time,Technical,Finance Tracker Web App
+S1310,"Figma, AI",Automation,Full-time,Creative,E-learning Gamification Platform
+S1311,"Django, Keras",Social Impact,Full-time,Research,Voice-based Email Client
+S1312,"React, JavaScript",Healthcare,Part-time,Technical,Chatbot for Students
+S1313,"Flask, JavaScript, Java, React",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1314,"ML, Java, AI",Automation,Full-time,Creative,Blockchain Voting System
+S1315,"NodeJS, React",Finance,Part-time,Technical,Mental Health UI Toolkit
+S1316,"TensorFlow, JavaScript, Python",Climate,Full-time,Creative,E-learning Gamification Platform
+S1317,"Python, AI, NodeJS, ML",Social Impact,Part-time,Research,Blockchain Voting System
+S1318,"React, TensorFlow, Flask, Figma",Climate,Full-time,Creative,Smart Attendance System
+S1319,"TensorFlow, Keras",Social Impact,Part-time,Creative,Blockchain Voting System
+S1320,"React, TensorFlow, NodeJS",Climate,Full-time,Creative,Automated Resume Screener
+S1321,"ML, React",Education,Full-time,Technical,Mental Health UI Toolkit
+S1322,"C++, JavaScript, AI",Education,Part-time,Research,AI-powered Diet Planner
+S1323,"AI, Flask, Figma",Healthcare,Part-time,Technical,Smart Attendance System
+S1324,"Figma, Flask",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S1325,"Flask, Python, Figma, ML",Climate,Full-time,Technical,Mental Health UI Toolkit
+S1326,"React, Flask",Healthcare,Part-time,Research,Finance Tracker Web App
+S1327,"TensorFlow, Python, Keras",Education,Full-time,Creative,Blockchain Voting System
+S1328,"Django, ML, C++, Flask",Education,Part-time,Technical,Smart Attendance System
+S1329,"Flask, Python, ML",Climate,Full-time,Research,Blockchain Voting System
+S1330,"ML, C++, Figma, React",Healthcare,Full-time,Research,Finance Tracker Web App
+S1331,"AI, TensorFlow, Django, Flask",Automation,Part-time,Research,AI-powered Diet Planner
+S1332,"JavaScript, Figma",Climate,Full-time,Research,E-learning Gamification Platform
+S1333,"React, AI",Social Impact,Full-time,Creative,Voice-based Email Client
+S1334,"Python, C++, Figma",Automation,Full-time,Technical,E-learning Gamification Platform
+S1335,"Figma, Java, Python, Keras",Automation,Part-time,Creative,Blockchain Voting System
+S1336,"Django, Python, ML, Figma",Education,Part-time,Research,AI-powered Diet Planner
+S1337,"Keras, NodeJS, Flask",Finance,Part-time,Creative,AI-powered Diet Planner
+S1338,"Java, Django, Flask, AI",Healthcare,Full-time,Research,E-learning Gamification Platform
+S1339,"Flask, JavaScript",Cybersecurity,Part-time,Technical,Smart Attendance System
+S1340,"Java, NodeJS, Flask",Climate,Full-time,Research,Finance Tracker Web App
+S1341,"Figma, React, Django, ML",Automation,Full-time,Creative,Automated Resume Screener
+S1342,"JavaScript, AI, Flask",Social Impact,Full-time,Technical,Finance Tracker Web App
+S1343,"TensorFlow, NodeJS, JavaScript",Education,Part-time,Technical,Finance Tracker Web App
+S1344,"Django, Flask, Python, ML",Education,Full-time,Technical,AI-powered Diet Planner
+S1345,"Keras, React, Figma",Climate,Full-time,Research,Chatbot for Students
+S1346,"Figma, TensorFlow",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S1347,"Figma, Django, JavaScript",Social Impact,Part-time,Creative,Automated Resume Screener
+S1348,"AI, JavaScript, Keras, ML",Education,Full-time,Technical,Automated Resume Screener
+S1349,"ML, Django, Keras, NodeJS",Social Impact,Part-time,Research,E-learning Gamification Platform
+S1350,"NodeJS, JavaScript, Java, Flask",Healthcare,Full-time,Technical,Finance Tracker Web App
+S1351,"Figma, TensorFlow, C++",Healthcare,Full-time,Creative,Automated Resume Screener
+S1352,"Keras, Flask, ML, Java",Cybersecurity,Full-time,Research,E-learning Gamification Platform
+S1353,"NodeJS, Java, React, Keras",Climate,Full-time,Research,Finance Tracker Web App
+S1354,"React, Figma, Django",Social Impact,Part-time,Creative,E-learning Gamification Platform
+S1355,"TensorFlow, NodeJS, ML",Cybersecurity,Part-time,Creative,Finance Tracker Web App
+S1356,"ML, Flask",Climate,Full-time,Research,Automated Resume Screener
+S1357,"ML, TensorFlow, Python",Automation,Full-time,Research,Voice-based Email Client
+S1358,"NodeJS, Figma",Cybersecurity,Part-time,Creative,Chatbot for Students
+S1359,"Python, Figma, React",Finance,Full-time,Creative,Smart Attendance System
+S1360,"Django, Python, AI",Education,Full-time,Technical,Automated Resume Screener
+S1361,"Django, C++, Java, Flask",Cybersecurity,Full-time,Technical,E-learning Gamification Platform
+S1362,"Java, TensorFlow, Figma",Finance,Part-time,Creative,Finance Tracker Web App
+S1363,"TensorFlow, Keras, ML",Finance,Full-time,Technical,Finance Tracker Web App
+S1364,"NodeJS, Java",Climate,Full-time,Creative,Voice-based Email Client
+S1365,"React, AI, NodeJS, Django",Education,Part-time,Technical,AI-powered Diet Planner
+S1366,"AI, NodeJS, ML, C++",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1367,"TensorFlow, Flask",Cybersecurity,Full-time,Research,Voice-based Email Client
+S1368,"AI, Figma, TensorFlow, ML",Healthcare,Part-time,Creative,Chatbot for Students
+S1369,"Java, Django, Flask, NodeJS",Cybersecurity,Full-time,Research,Smart Attendance System
+S1370,"Django, Java",Education,Part-time,Creative,Finance Tracker Web App
+S1371,"Flask, ML",Climate,Part-time,Technical,Finance Tracker Web App
+S1372,"Figma, Flask, TensorFlow",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S1373,"Django, AI, Python, ML",Finance,Part-time,Technical,Automated Resume Screener
+S1374,"JavaScript, TensorFlow, C++, Django",Cybersecurity,Part-time,Creative,Finance Tracker Web App
+S1375,"Django, Flask, Python, React",Climate,Part-time,Research,Mental Health UI Toolkit
+S1376,"Flask, React, Figma, NodeJS",Social Impact,Part-time,Technical,Voice-based Email Client
+S1377,"Java, Figma, Python, React",Healthcare,Full-time,Technical,Smart Attendance System
+S1378,"Python, ML, TensorFlow, Flask",Cybersecurity,Part-time,Creative,Smart Attendance System
+S1379,"Python, ML, C++",Healthcare,Full-time,Creative,Smart Attendance System
+S1380,"JavaScript, Keras, Figma, ML",Automation,Full-time,Creative,Automated Resume Screener
+S1381,"JavaScript, React",Cybersecurity,Part-time,Research,E-learning Gamification Platform
+S1382,"ML, Keras, NodeJS",Automation,Full-time,Creative,Chatbot for Students
+S1383,"React, ML",Social Impact,Part-time,Creative,Mental Health UI Toolkit
+S1384,"Python, TensorFlow",Climate,Part-time,Research,Smart Attendance System
+S1385,"Python, Java, Flask",Social Impact,Full-time,Technical,AI-powered Diet Planner
+S1386,"Keras, Figma",Healthcare,Full-time,Technical,Smart Attendance System
+S1387,"JavaScript, React",Automation,Full-time,Research,Voice-based Email Client
+S1388,"Keras, NodeJS",Social Impact,Part-time,Creative,Finance Tracker Web App
+S1389,"NodeJS, TensorFlow, Figma",Cybersecurity,Full-time,Creative,Automated Resume Screener
+S1390,"Django, React",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1391,"Python, Flask",Finance,Part-time,Research,Mental Health UI Toolkit
+S1392,"TensorFlow, Figma, ML",Cybersecurity,Full-time,Technical,Finance Tracker Web App
+S1393,"React, Python, Figma",Social Impact,Full-time,Creative,Smart Attendance System
+S1394,"Java, AI",Social Impact,Full-time,Research,Blockchain Voting System
+S1395,"React, JavaScript, Python, Flask",Social Impact,Part-time,Technical,Automated Resume Screener
+S1396,"ML, Keras",Social Impact,Part-time,Technical,Blockchain Voting System
+S1397,"Java, Keras, ML, AI",Automation,Full-time,Research,Blockchain Voting System
+S1398,"Figma, Django, Flask, Keras",Education,Part-time,Creative,Mental Health UI Toolkit
+S1399,"ML, Figma",Automation,Part-time,Technical,Voice-based Email Client
+S1400,"NodeJS, React, AI",Climate,Part-time,Creative,Finance Tracker Web App
+S1401,"Java, NodeJS",Finance,Part-time,Technical,Voice-based Email Client
+S1402,"Java, NodeJS, JavaScript",Climate,Part-time,Research,Finance Tracker Web App
+S1403,"Django, React, Python",Social Impact,Part-time,Research,AI-powered Diet Planner
+S1404,"TensorFlow, C++, React",Automation,Full-time,Technical,Mental Health UI Toolkit
+S1405,"JavaScript, Flask, React",Climate,Full-time,Research,E-learning Gamification Platform
+S1406,"Django, JavaScript",Finance,Full-time,Technical,Chatbot for Students
+S1407,"Figma, Java, Flask",Healthcare,Full-time,Research,AI-powered Diet Planner
+S1408,"Python, Flask, Figma, Django",Finance,Part-time,Creative,AI-powered Diet Planner
+S1409,"Figma, React, Flask, NodeJS",Education,Full-time,Research,Chatbot for Students
+S1410,"Keras, Figma",Finance,Full-time,Technical,Chatbot for Students
+S1411,"Figma, C++",Automation,Part-time,Creative,Automated Resume Screener
+S1412,"Figma, JavaScript",Cybersecurity,Full-time,Research,AI-powered Diet Planner
+S1413,"React, AI, Java",Climate,Full-time,Creative,Voice-based Email Client
+S1414,"JavaScript, Django, NodeJS, Figma",Cybersecurity,Part-time,Research,Voice-based Email Client
+S1415,"Java, Python, ML",Automation,Full-time,Creative,Voice-based Email Client
+S1416,"C++, TensorFlow, React",Finance,Part-time,Research,Finance Tracker Web App
+S1417,"Django, React, Flask",Cybersecurity,Part-time,Technical,Smart Attendance System
+S1418,"Keras, Figma, JavaScript",Social Impact,Full-time,Creative,Smart Attendance System
+S1419,"TensorFlow, React",Social Impact,Part-time,Research,Smart Attendance System
+S1420,"Keras, Django, Flask, TensorFlow",Healthcare,Full-time,Creative,Blockchain Voting System
+S1421,"ML, AI, Python",Social Impact,Full-time,Technical,Smart Attendance System
+S1422,"Keras, Django, React, TensorFlow",Climate,Part-time,Creative,Mental Health UI Toolkit
+S1423,"Java, AI, Python",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S1424,"TensorFlow, C++, AI",Social Impact,Full-time,Technical,Automated Resume Screener
+S1425,"NodeJS, Figma, Python",Climate,Part-time,Creative,Blockchain Voting System
+S1426,"TensorFlow, Django",Cybersecurity,Full-time,Research,Voice-based Email Client
+S1427,"Django, React",Social Impact,Full-time,Creative,Voice-based Email Client
+S1428,"TensorFlow, JavaScript, Django",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S1429,"AI, ML, TensorFlow",Climate,Full-time,Technical,Smart Attendance System
+S1430,"Java, Django",Education,Part-time,Creative,Finance Tracker Web App
+S1431,"NodeJS, Flask, C++, TensorFlow",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S1432,"Java, Flask",Cybersecurity,Full-time,Technical,Chatbot for Students
+S1433,"React, Django",Finance,Full-time,Technical,E-learning Gamification Platform
+S1434,"C++, NodeJS",Climate,Part-time,Technical,Chatbot for Students
+S1435,"NodeJS, C++",Social Impact,Part-time,Research,AI-powered Diet Planner
+S1436,"NodeJS, Figma",Education,Part-time,Research,AI-powered Diet Planner
+S1437,"TensorFlow, AI",Automation,Full-time,Technical,Mental Health UI Toolkit
+S1438,"Django, NodeJS, Python, Flask",Automation,Full-time,Technical,Chatbot for Students
+S1439,"Figma, JavaScript, Keras",Education,Part-time,Technical,Finance Tracker Web App
+S1440,"Java, JavaScript, ML",Social Impact,Part-time,Creative,Automated Resume Screener
+S1441,"Keras, Java, Figma, Python",Cybersecurity,Full-time,Technical,Mental Health UI Toolkit
+S1442,"Django, JavaScript, Flask, AI",Climate,Part-time,Creative,AI-powered Diet Planner
+S1443,"JavaScript, React, ML",Cybersecurity,Part-time,Technical,Chatbot for Students
+S1444,"AI, Figma",Cybersecurity,Part-time,Creative,Smart Attendance System
+S1445,"TensorFlow, JavaScript, ML, Figma",Social Impact,Part-time,Creative,E-learning Gamification Platform
+S1446,"Python, ML, Figma, Django",Automation,Part-time,Research,Mental Health UI Toolkit
+S1447,"Django, Figma, Keras",Cybersecurity,Part-time,Research,Finance Tracker Web App
+S1448,"Keras, C++, React",Healthcare,Part-time,Technical,AI-powered Diet Planner
+S1449,"TensorFlow, NodeJS",Cybersecurity,Part-time,Creative,Finance Tracker Web App
+S1450,"React, JavaScript, Python",Climate,Full-time,Technical,Chatbot for Students
+S1451,"Flask, ML",Social Impact,Part-time,Creative,AI-powered Diet Planner
+S1452,"Django, JavaScript, Java",Education,Part-time,Technical,AI-powered Diet Planner
+S1453,"ML, React",Healthcare,Full-time,Technical,Voice-based Email Client
+S1454,"Django, NodeJS, Keras",Finance,Full-time,Creative,AI-powered Diet Planner
+S1455,"Keras, Python",Education,Full-time,Technical,Mental Health UI Toolkit
+S1456,"C++, NodeJS",Automation,Part-time,Technical,Voice-based Email Client
+S1457,"ML, React",Automation,Full-time,Research,Automated Resume Screener
+S1458,"Figma, TensorFlow",Cybersecurity,Part-time,Research,Chatbot for Students
+S1459,"Java, React, JavaScript, Keras",Climate,Full-time,Technical,Finance Tracker Web App
+S1460,"Django, Figma, ML, Flask",Climate,Full-time,Research,Chatbot for Students
+S1461,"TensorFlow, NodeJS, ML, C++",Cybersecurity,Full-time,Research,AI-powered Diet Planner
+S1462,"Django, ML, Figma, Keras",Climate,Part-time,Creative,Voice-based Email Client
+S1463,"NodeJS, Python",Cybersecurity,Part-time,Research,Smart Attendance System
+S1464,"Python, React, Flask",Social Impact,Part-time,Research,Voice-based Email Client
+S1465,"C++, Python, TensorFlow",Automation,Part-time,Technical,AI-powered Diet Planner
+S1466,"NodeJS, Keras, C++",Finance,Full-time,Research,E-learning Gamification Platform
+S1467,"React, Python",Finance,Part-time,Technical,E-learning Gamification Platform
+S1468,"Keras, Python, AI",Cybersecurity,Part-time,Technical,Finance Tracker Web App
+S1469,"Flask, AI",Education,Part-time,Research,AI-powered Diet Planner
+S1470,"Django, Figma",Automation,Full-time,Creative,Finance Tracker Web App
+S1471,"Java, Keras, AI, ML",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1472,"NodeJS, TensorFlow",Finance,Full-time,Creative,Voice-based Email Client
+S1473,"NodeJS, Flask, TensorFlow, Keras",Automation,Part-time,Creative,Finance Tracker Web App
+S1474,"TensorFlow, Flask",Healthcare,Full-time,Creative,Smart Attendance System
+S1475,"Keras, Figma",Cybersecurity,Full-time,Creative,Blockchain Voting System
+S1476,"Figma, JavaScript",Cybersecurity,Part-time,Creative,Voice-based Email Client
+S1477,"Figma, Python",Healthcare,Part-time,Creative,AI-powered Diet Planner
+S1478,"Python, Django, C++",Automation,Full-time,Creative,Voice-based Email Client
+S1479,"C++, Flask",Education,Full-time,Technical,AI-powered Diet Planner
+S1480,"Django, ML",Healthcare,Full-time,Creative,Automated Resume Screener
+S1481,"ML, Java, C++, Keras",Finance,Part-time,Technical,Blockchain Voting System
+S1482,"Django, Java, JavaScript",Finance,Part-time,Technical,Mental Health UI Toolkit
+S1483,"Flask, C++",Finance,Full-time,Technical,Voice-based Email Client
+S1484,"Python, NodeJS, C++, Figma",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1485,"TensorFlow, JavaScript, AI",Climate,Full-time,Technical,AI-powered Diet Planner
+S1486,"JavaScript, TensorFlow, React",Automation,Full-time,Creative,Smart Attendance System
+S1487,"Java, C++",Social Impact,Full-time,Research,Mental Health UI Toolkit
+S1488,"NodeJS, AI",Climate,Part-time,Creative,Chatbot for Students
+S1489,"C++, Python, JavaScript",Education,Part-time,Creative,AI-powered Diet Planner
+S1490,"Keras, ML, Flask",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S1491,"Flask, TensorFlow, C++",Automation,Part-time,Research,E-learning Gamification Platform
+S1492,"Django, Java, ML, Python",Healthcare,Full-time,Research,Blockchain Voting System
+S1493,"C++, NodeJS, React, TensorFlow",Social Impact,Full-time,Research,AI-powered Diet Planner
+S1494,"Flask, React, Figma",Climate,Full-time,Research,Mental Health UI Toolkit
+S1495,"TensorFlow, React, Python",Education,Part-time,Creative,Mental Health UI Toolkit
+S1496,"AI, ML, C++",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S1497,"C++, AI, Django",Social Impact,Full-time,Research,Automated Resume Screener
+S1498,"Figma, React",Social Impact,Part-time,Research,E-learning Gamification Platform
+S1499,"Django, C++, Flask",Education,Part-time,Technical,Voice-based Email Client
+S1500,"JavaScript, Figma",Automation,Full-time,Research,Smart Attendance System
+S1501,"Java, Flask",Healthcare,Full-time,Research,Chatbot for Students
+S1502,"ML, Flask, Python, C++",Cybersecurity,Part-time,Research,Voice-based Email Client
+S1503,"Figma, ML, Flask, TensorFlow",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1504,"Django, Figma",Education,Part-time,Technical,Blockchain Voting System
+S1505,"ML, Django, Keras",Automation,Part-time,Technical,E-learning Gamification Platform
+S1506,"Python, Figma, C++",Education,Full-time,Creative,Automated Resume Screener
+S1507,"AI, Python, Java, TensorFlow",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S1508,"Flask, AI, React, ML",Cybersecurity,Part-time,Research,E-learning Gamification Platform
+S1509,"TensorFlow, Java, Python",Healthcare,Full-time,Creative,Finance Tracker Web App
+S1510,"Keras, NodeJS, TensorFlow, AI",Automation,Part-time,Research,Voice-based Email Client
+S1511,"Python, Keras",Automation,Part-time,Research,Voice-based Email Client
+S1512,"JavaScript, TensorFlow, Django",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S1513,"Flask, Figma",Healthcare,Part-time,Research,Automated Resume Screener
+S1514,"React, JavaScript, ML, Java",Automation,Part-time,Creative,Automated Resume Screener
+S1515,"NodeJS, AI, Java, TensorFlow",Finance,Full-time,Research,Mental Health UI Toolkit
+S1516,"Keras, Figma, TensorFlow",Cybersecurity,Part-time,Creative,Chatbot for Students
+S1517,"TensorFlow, Python, NodeJS",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S1518,"Python, NodeJS, AI, Figma",Climate,Full-time,Creative,Finance Tracker Web App
+S1519,"Keras, TensorFlow, Java",Automation,Part-time,Research,Blockchain Voting System
+S1520,"NodeJS, React",Cybersecurity,Part-time,Technical,Smart Attendance System
+S1521,"AI, Flask",Climate,Full-time,Creative,AI-powered Diet Planner
+S1522,"Flask, JavaScript",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S1523,"Figma, Python, React, ML",Automation,Full-time,Technical,AI-powered Diet Planner
+S1524,"C++, TensorFlow",Education,Full-time,Research,Mental Health UI Toolkit
+S1525,"Flask, NodeJS, JavaScript",Education,Full-time,Creative,Voice-based Email Client
+S1526,"JavaScript, Python, C++, AI",Cybersecurity,Part-time,Research,Smart Attendance System
+S1527,"React, TensorFlow",Cybersecurity,Part-time,Technical,Finance Tracker Web App
+S1528,"C++, Django, Python, Keras",Healthcare,Part-time,Research,Voice-based Email Client
+S1529,"JavaScript, TensorFlow, Flask",Climate,Part-time,Research,Blockchain Voting System
+S1530,"Figma, AI, Flask, React",Automation,Part-time,Research,E-learning Gamification Platform
+S1531,"ML, Python, TensorFlow, Figma",Healthcare,Part-time,Creative,Smart Attendance System
+S1532,"React, Django, TensorFlow, Flask",Healthcare,Full-time,Research,Chatbot for Students
+S1533,"JavaScript, AI",Social Impact,Part-time,Research,Voice-based Email Client
+S1534,"Figma, Python, React",Social Impact,Part-time,Research,Chatbot for Students
+S1535,"Figma, Python, Keras, TensorFlow",Cybersecurity,Full-time,Creative,AI-powered Diet Planner
+S1536,"Flask, AI",Automation,Full-time,Technical,AI-powered Diet Planner
+S1537,"Django, React, C++",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S1538,"ML, C++, Django",Healthcare,Part-time,Research,Mental Health UI Toolkit
+S1539,"JavaScript, AI",Finance,Full-time,Technical,E-learning Gamification Platform
+S1540,"ML, JavaScript, Figma, React",Finance,Part-time,Research,AI-powered Diet Planner
+S1541,"JavaScript, NodeJS, Java, Flask",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S1542,"Flask, Python",Cybersecurity,Part-time,Research,Mental Health UI Toolkit
+S1543,"React, Django, Flask, Java",Climate,Part-time,Research,E-learning Gamification Platform
+S1544,"ML, Flask, Java, React",Cybersecurity,Part-time,Research,E-learning Gamification Platform
+S1545,"Java, Figma, AI, Keras",Automation,Part-time,Technical,Automated Resume Screener
+S1546,"TensorFlow, Flask, JavaScript, Django",Education,Full-time,Creative,Finance Tracker Web App
+S1547,"TensorFlow, Django",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S1548,"JavaScript, Figma, Java, AI",Finance,Full-time,Technical,Mental Health UI Toolkit
+S1549,"Java, C++",Cybersecurity,Full-time,Creative,Chatbot for Students
+S1550,"Django, Python, Flask, NodeJS",Cybersecurity,Part-time,Creative,Smart Attendance System
+S1551,"AI, Figma, Python",Healthcare,Part-time,Creative,Automated Resume Screener
+S1552,"Keras, Java, Flask, AI",Climate,Full-time,Technical,Blockchain Voting System
+S1553,"JavaScript, TensorFlow",Social Impact,Part-time,Research,Chatbot for Students
+S1554,"ML, Java, Figma",Education,Full-time,Creative,Mental Health UI Toolkit
+S1555,"TensorFlow, Flask, AI",Automation,Part-time,Creative,E-learning Gamification Platform
+S1556,"TensorFlow, ML, Flask",Automation,Full-time,Creative,AI-powered Diet Planner
+S1557,"C++, Flask",Finance,Part-time,Research,Blockchain Voting System
+S1558,"NodeJS, React",Healthcare,Full-time,Creative,Finance Tracker Web App
+S1559,"React, Flask, NodeJS",Cybersecurity,Full-time,Research,Automated Resume Screener
+S1560,"TensorFlow, React, Figma",Social Impact,Full-time,Creative,Voice-based Email Client
+S1561,"ML, React, AI, Flask",Healthcare,Part-time,Research,Voice-based Email Client
+S1562,"React, Keras, C++",Education,Full-time,Technical,Smart Attendance System
+S1563,"ML, TensorFlow, Flask, AI",Healthcare,Part-time,Research,Finance Tracker Web App
+S1564,"Java, Python, JavaScript",Social Impact,Full-time,Creative,Chatbot for Students
+S1565,"Flask, JavaScript, ML, Figma",Automation,Part-time,Research,AI-powered Diet Planner
+S1566,"JavaScript, AI, Python, React",Cybersecurity,Full-time,Technical,Mental Health UI Toolkit
+S1567,"Django, C++",Cybersecurity,Full-time,Technical,Chatbot for Students
+S1568,"Python, NodeJS",Finance,Part-time,Technical,Finance Tracker Web App
+S1569,"ML, Keras, Python",Automation,Part-time,Creative,Smart Attendance System
+S1570,"Python, AI",Finance,Full-time,Technical,Mental Health UI Toolkit
+S1571,"JavaScript, Figma",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S1572,"JavaScript, Django",Social Impact,Part-time,Creative,Blockchain Voting System
+S1573,"AI, Flask",Climate,Full-time,Technical,Finance Tracker Web App
+S1574,"React, Figma, Keras",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1575,"Django, ML, Flask",Social Impact,Part-time,Research,E-learning Gamification Platform
+S1576,"Django, TensorFlow, Keras",Climate,Full-time,Creative,Blockchain Voting System
+S1577,"AI, Python",Automation,Full-time,Technical,Chatbot for Students
+S1578,"JavaScript, Figma",Climate,Full-time,Technical,E-learning Gamification Platform
+S1579,"Java, ML",Social Impact,Part-time,Research,AI-powered Diet Planner
+S1580,"Flask, Figma, Python, React",Automation,Part-time,Creative,Blockchain Voting System
+S1581,"Django, Python, React, Keras",Healthcare,Full-time,Research,Automated Resume Screener
+S1582,"TensorFlow, ML",Social Impact,Full-time,Research,AI-powered Diet Planner
+S1583,"TensorFlow, Java, AI, React",Cybersecurity,Part-time,Technical,Voice-based Email Client
+S1584,"Django, C++, React",Cybersecurity,Full-time,Research,Chatbot for Students
+S1585,"Django, JavaScript, TensorFlow",Education,Full-time,Creative,Voice-based Email Client
+S1586,"C++, Java",Climate,Full-time,Creative,Finance Tracker Web App
+S1587,"React, AI, Django",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S1588,"Java, C++, JavaScript",Healthcare,Full-time,Technical,Chatbot for Students
+S1589,"NodeJS, AI, ML, Figma",Climate,Part-time,Creative,Automated Resume Screener
+S1590,"Java, C++, ML, Django",Automation,Part-time,Creative,AI-powered Diet Planner
+S1591,"Django, Keras, AI",Automation,Full-time,Creative,AI-powered Diet Planner
+S1592,"Flask, TensorFlow, Keras",Social Impact,Full-time,Technical,Chatbot for Students
+S1593,"Java, Django, TensorFlow, Python",Climate,Full-time,Technical,Automated Resume Screener
+S1594,"Flask, C++, TensorFlow, Keras",Climate,Full-time,Research,Mental Health UI Toolkit
+S1595,"TensorFlow, Figma, React, Keras",Climate,Part-time,Creative,Automated Resume Screener
+S1596,"Flask, ML",Education,Part-time,Creative,Chatbot for Students
+S1597,"ML, Flask, Java, Python",Climate,Full-time,Creative,E-learning Gamification Platform
+S1598,"Keras, Flask",Social Impact,Part-time,Research,AI-powered Diet Planner
+S1599,"AI, C++, Django, React",Climate,Full-time,Technical,Voice-based Email Client
+S1600,"Django, TensorFlow",Climate,Part-time,Technical,Finance Tracker Web App
+S1601,"Flask, AI, Figma, ML",Education,Full-time,Technical,Voice-based Email Client
+S1602,"AI, Flask",Healthcare,Full-time,Technical,Voice-based Email Client
+S1603,"ML, Java, TensorFlow",Healthcare,Part-time,Research,Mental Health UI Toolkit
+S1604,"Python, TensorFlow",Social Impact,Full-time,Research,AI-powered Diet Planner
+S1605,"Python, Java, ML",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S1606,"JavaScript, Flask",Healthcare,Full-time,Technical,Blockchain Voting System
+S1607,"C++, Keras",Cybersecurity,Full-time,Technical,Blockchain Voting System
+S1608,"Python, Figma",Education,Full-time,Creative,Blockchain Voting System
+S1609,"React, TensorFlow, NodeJS",Climate,Full-time,Creative,Chatbot for Students
+S1610,"C++, Django, Java",Cybersecurity,Part-time,Creative,Smart Attendance System
+S1611,"JavaScript, AI, Figma, React",Healthcare,Part-time,Research,Automated Resume Screener
+S1612,"Figma, Keras",Climate,Full-time,Research,Mental Health UI Toolkit
+S1613,"Flask, Java, Django",Climate,Part-time,Research,Mental Health UI Toolkit
+S1614,"AI, Flask",Healthcare,Full-time,Creative,Finance Tracker Web App
+S1615,"Figma, NodeJS, JavaScript",Automation,Part-time,Technical,Chatbot for Students
+S1616,"Django, TensorFlow",Climate,Part-time,Research,Smart Attendance System
+S1617,"Python, JavaScript, Flask, React",Climate,Part-time,Research,Smart Attendance System
+S1618,"TensorFlow, NodeJS",Automation,Full-time,Technical,Finance Tracker Web App
+S1619,"Flask, Java",Automation,Part-time,Technical,Voice-based Email Client
+S1620,"Keras, React, C++",Healthcare,Full-time,Technical,Automated Resume Screener
+S1621,"AI, React",Finance,Part-time,Technical,AI-powered Diet Planner
+S1622,"Keras, TensorFlow, AI",Social Impact,Part-time,Technical,Blockchain Voting System
+S1623,"Figma, ML",Finance,Part-time,Creative,E-learning Gamification Platform
+S1624,"JavaScript, Flask",Education,Part-time,Research,Finance Tracker Web App
+S1625,"Figma, Keras, Flask",Climate,Full-time,Creative,Finance Tracker Web App
+S1626,"Keras, TensorFlow",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1627,"NodeJS, Python, TensorFlow",Healthcare,Part-time,Technical,Smart Attendance System
+S1628,"Keras, JavaScript, Django",Education,Part-time,Research,Finance Tracker Web App
+S1629,"Figma, NodeJS, TensorFlow, React",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1630,"Keras, React",Climate,Part-time,Creative,Smart Attendance System
+S1631,"TensorFlow, Figma, React, NodeJS",Social Impact,Full-time,Research,Voice-based Email Client
+S1632,"Django, JavaScript, Flask",Education,Full-time,Research,Blockchain Voting System
+S1633,"Java, Figma, JavaScript",Climate,Part-time,Creative,Smart Attendance System
+S1634,"AI, Django",Cybersecurity,Full-time,Research,Chatbot for Students
+S1635,"React, Java",Social Impact,Full-time,Technical,Chatbot for Students
+S1636,"Java, Figma, ML, C++",Climate,Part-time,Technical,Smart Attendance System
+S1637,"ML, Figma",Automation,Part-time,Creative,E-learning Gamification Platform
+S1638,"NodeJS, TensorFlow, ML, JavaScript",Finance,Full-time,Creative,Chatbot for Students
+S1639,"JavaScript, React, Django, Keras",Cybersecurity,Full-time,Technical,Mental Health UI Toolkit
+S1640,"Django, TensorFlow",Social Impact,Part-time,Research,Chatbot for Students
+S1641,"C++, Keras",Education,Full-time,Technical,Automated Resume Screener
+S1642,"Keras, Python",Social Impact,Full-time,Creative,Automated Resume Screener
+S1643,"NodeJS, Flask, Python",Education,Full-time,Research,Voice-based Email Client
+S1644,"JavaScript, ML, Python, Flask",Climate,Part-time,Technical,Finance Tracker Web App
+S1645,"React, TensorFlow",Climate,Full-time,Creative,Smart Attendance System
+S1646,"AI, ML, Figma",Climate,Full-time,Creative,Voice-based Email Client
+S1647,"Figma, JavaScript",Finance,Full-time,Creative,Finance Tracker Web App
+S1648,"JavaScript, Java, AI, Flask",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S1649,"JavaScript, ML",Healthcare,Full-time,Creative,Mental Health UI Toolkit
+S1650,"Figma, Django, JavaScript",Healthcare,Full-time,Research,E-learning Gamification Platform
+S1651,"Django, JavaScript, Flask",Finance,Full-time,Technical,Automated Resume Screener
+S1652,"ML, Python, Java",Finance,Part-time,Research,AI-powered Diet Planner
+S1653,"NodeJS, JavaScript",Finance,Part-time,Creative,Automated Resume Screener
+S1654,"NodeJS, TensorFlow, React, Django",Automation,Part-time,Research,Chatbot for Students
+S1655,"React, JavaScript, TensorFlow",Finance,Part-time,Creative,Finance Tracker Web App
+S1656,"Python, Figma",Healthcare,Full-time,Creative,Automated Resume Screener
+S1657,"Java, Figma, C++, TensorFlow",Social Impact,Full-time,Research,Mental Health UI Toolkit
+S1658,"Python, Django, React, C++",Social Impact,Part-time,Creative,Mental Health UI Toolkit
+S1659,"Django, ML, Figma, TensorFlow",Social Impact,Part-time,Research,Blockchain Voting System
+S1660,"C++, ML, AI, React",Finance,Part-time,Research,Finance Tracker Web App
+S1661,"Figma, AI",Education,Full-time,Research,E-learning Gamification Platform
+S1662,"Keras, ML, NodeJS",Cybersecurity,Part-time,Creative,E-learning Gamification Platform
+S1663,"Flask, Python, Django",Healthcare,Part-time,Technical,Automated Resume Screener
+S1664,"Python, React",Finance,Part-time,Technical,Mental Health UI Toolkit
+S1665,"ML, AI, NodeJS, Django",Education,Part-time,Research,E-learning Gamification Platform
+S1666,"Java, Python, NodeJS, Figma",Automation,Part-time,Technical,AI-powered Diet Planner
+S1667,"JavaScript, C++, Java, Flask",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1668,"Figma, Python, NodeJS",Healthcare,Part-time,Creative,Finance Tracker Web App
+S1669,"TensorFlow, JavaScript",Cybersecurity,Full-time,Research,Voice-based Email Client
+S1670,"Keras, Figma",Climate,Full-time,Technical,Smart Attendance System
+S1671,"AI, React",Climate,Part-time,Creative,Chatbot for Students
+S1672,"C++, React, Keras",Automation,Part-time,Research,Voice-based Email Client
+S1673,"NodeJS, Django, Keras",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S1674,"TensorFlow, Python, NodeJS, ML",Automation,Part-time,Creative,Smart Attendance System
+S1675,"Python, JavaScript, Figma, Java",Climate,Full-time,Research,Blockchain Voting System
+S1676,"Java, React, ML",Finance,Part-time,Technical,Finance Tracker Web App
+S1677,"Django, C++",Healthcare,Full-time,Creative,Smart Attendance System
+S1678,"JavaScript, AI",Finance,Full-time,Creative,Finance Tracker Web App
+S1679,"Django, Python, React",Finance,Full-time,Research,Automated Resume Screener
+S1680,"C++, Keras, React",Climate,Part-time,Creative,Blockchain Voting System
+S1681,"Flask, Python, NodeJS, React",Automation,Full-time,Technical,AI-powered Diet Planner
+S1682,"AI, NodeJS, ML",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S1683,"AI, TensorFlow, Django",Social Impact,Part-time,Creative,Automated Resume Screener
+S1684,"C++, React, NodeJS",Cybersecurity,Part-time,Technical,AI-powered Diet Planner
+S1685,"C++, Java",Education,Full-time,Creative,Smart Attendance System
+S1686,"Keras, Python",Healthcare,Full-time,Research,AI-powered Diet Planner
+S1687,"NodeJS, Flask, Java",Finance,Full-time,Technical,Voice-based Email Client
+S1688,"ML, React, JavaScript",Climate,Full-time,Technical,Chatbot for Students
+S1689,"React, C++, NodeJS, Django",Finance,Full-time,Research,Mental Health UI Toolkit
+S1690,"TensorFlow, Java",Finance,Full-time,Research,Automated Resume Screener
+S1691,"TensorFlow, JavaScript, AI, Flask",Healthcare,Part-time,Creative,Finance Tracker Web App
+S1692,"Figma, Python",Education,Full-time,Creative,Voice-based Email Client
+S1693,"Keras, NodeJS, React, Flask",Healthcare,Part-time,Technical,Chatbot for Students
+S1694,"NodeJS, Java",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1695,"TensorFlow, AI",Finance,Part-time,Research,Blockchain Voting System
+S1696,"Java, Python, Keras, C++",Cybersecurity,Full-time,Creative,Smart Attendance System
+S1697,"TensorFlow, Keras, JavaScript",Finance,Part-time,Technical,Mental Health UI Toolkit
+S1698,"Django, Flask, AI, Figma",Healthcare,Part-time,Research,Blockchain Voting System
+S1699,"Java, AI, TensorFlow",Finance,Part-time,Technical,Smart Attendance System
+S1700,"JavaScript, Java",Automation,Full-time,Technical,Chatbot for Students
+S1701,"TensorFlow, React",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S1702,"AI, C++, React",Cybersecurity,Full-time,Research,Voice-based Email Client
+S1703,"Keras, JavaScript",Social Impact,Full-time,Technical,Smart Attendance System
+S1704,"React, NodeJS, Django, ML",Education,Part-time,Research,Chatbot for Students
+S1705,"Python, Figma, JavaScript",Finance,Full-time,Creative,Blockchain Voting System
+S1706,"ML, NodeJS, Python, Java",Social Impact,Part-time,Technical,Smart Attendance System
+S1707,"AI, C++, React, NodeJS",Healthcare,Full-time,Technical,Smart Attendance System
+S1708,"Python, Django, NodeJS",Education,Part-time,Creative,Finance Tracker Web App
+S1709,"Java, AI, Python",Automation,Part-time,Research,E-learning Gamification Platform
+S1710,"JavaScript, NodeJS",Automation,Part-time,Research,Mental Health UI Toolkit
+S1711,"TensorFlow, NodeJS, Django, Python",Climate,Full-time,Creative,E-learning Gamification Platform
+S1712,"React, Django",Education,Full-time,Technical,Voice-based Email Client
+S1713,"C++, React, Flask",Finance,Part-time,Research,Finance Tracker Web App
+S1714,"ML, Keras, React, Python",Automation,Part-time,Technical,Finance Tracker Web App
+S1715,"Python, Keras",Education,Full-time,Technical,Automated Resume Screener
+S1716,"Keras, Django, Java, NodeJS",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S1717,"JavaScript, NodeJS, TensorFlow",Healthcare,Full-time,Creative,Automated Resume Screener
+S1718,"C++, NodeJS",Finance,Part-time,Technical,Chatbot for Students
+S1719,"Flask, Django, AI",Automation,Full-time,Technical,Automated Resume Screener
+S1720,"AI, Java, Figma",Education,Part-time,Creative,Automated Resume Screener
+S1721,"Java, JavaScript, React, Django",Social Impact,Part-time,Research,Mental Health UI Toolkit
+S1722,"NodeJS, React",Climate,Full-time,Technical,Smart Attendance System
+S1723,"Python, NodeJS, Java, Flask",Social Impact,Full-time,Technical,Chatbot for Students
+S1724,"Keras, Django, JavaScript, Flask",Education,Part-time,Creative,AI-powered Diet Planner
+S1725,"AI, Python, Figma",Climate,Full-time,Technical,Smart Attendance System
+S1726,"Keras, TensorFlow, NodeJS, Flask",Automation,Part-time,Technical,AI-powered Diet Planner
+S1727,"ML, Figma",Automation,Full-time,Technical,Automated Resume Screener
+S1728,"Django, Keras, ML, TensorFlow",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S1729,"React, C++",Climate,Part-time,Technical,Finance Tracker Web App
+S1730,"Keras, NodeJS, C++, ML",Finance,Part-time,Technical,Blockchain Voting System
+S1731,"Keras, Flask, TensorFlow, JavaScript",Social Impact,Full-time,Research,Blockchain Voting System
+S1732,"Keras, NodeJS, Java",Education,Full-time,Research,Finance Tracker Web App
+S1733,"Java, C++, ML",Finance,Full-time,Creative,Chatbot for Students
+S1734,"Django, C++, AI, Keras",Cybersecurity,Full-time,Technical,Automated Resume Screener
+S1735,"React, Java, Figma, AI",Finance,Part-time,Creative,Mental Health UI Toolkit
+S1736,"C++, TensorFlow, NodeJS, Python",Healthcare,Part-time,Technical,Smart Attendance System
+S1737,"C++, Django, Python, React",Social Impact,Part-time,Technical,Smart Attendance System
+S1738,"Python, JavaScript",Education,Full-time,Creative,Finance Tracker Web App
+S1739,"JavaScript, Keras",Healthcare,Full-time,Research,Finance Tracker Web App
+S1740,"AI, Python, JavaScript",Education,Full-time,Creative,Chatbot for Students
+S1741,"Python, AI, Keras, Flask",Finance,Full-time,Research,E-learning Gamification Platform
+S1742,"Figma, Java, Keras, ML",Social Impact,Full-time,Creative,Smart Attendance System
+S1743,"Figma, JavaScript, NodeJS, ML",Cybersecurity,Full-time,Technical,Chatbot for Students
+S1744,"AI, C++",Automation,Full-time,Technical,Finance Tracker Web App
+S1745,"Python, ML, AI, JavaScript",Climate,Full-time,Technical,Blockchain Voting System
+S1746,"Java, Figma, Django",Social Impact,Part-time,Creative,AI-powered Diet Planner
+S1747,"ML, TensorFlow, Keras, NodeJS",Education,Full-time,Creative,AI-powered Diet Planner
+S1748,"Figma, Keras, Django, TensorFlow",Climate,Full-time,Research,E-learning Gamification Platform
+S1749,"Python, React, C++",Finance,Part-time,Creative,Smart Attendance System
+S1750,"Django, JavaScript, TensorFlow",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1751,"React, C++, TensorFlow, AI",Finance,Full-time,Creative,Mental Health UI Toolkit
+S1752,"ML, Python",Cybersecurity,Full-time,Creative,E-learning Gamification Platform
+S1753,"NodeJS, Keras, Python, ML",Education,Full-time,Creative,Automated Resume Screener
+S1754,"Keras, AI",Healthcare,Part-time,Research,Blockchain Voting System
+S1755,"Figma, Java",Education,Part-time,Creative,Chatbot for Students
+S1756,"Keras, ML",Social Impact,Part-time,Research,Smart Attendance System
+S1757,"Django, Figma, ML, Flask",Cybersecurity,Part-time,Creative,AI-powered Diet Planner
+S1758,"Java, JavaScript, Flask",Cybersecurity,Full-time,Creative,Blockchain Voting System
+S1759,"NodeJS, Java",Climate,Full-time,Creative,Voice-based Email Client
+S1760,"NodeJS, JavaScript, C++, ML",Education,Full-time,Technical,Mental Health UI Toolkit
+S1761,"Flask, NodeJS",Social Impact,Part-time,Technical,E-learning Gamification Platform
+S1762,"Keras, TensorFlow, Java",Social Impact,Part-time,Research,Smart Attendance System
+S1763,"JavaScript, NodeJS, Java, TensorFlow",Finance,Part-time,Creative,E-learning Gamification Platform
+S1764,"Figma, AI",Social Impact,Part-time,Technical,Chatbot for Students
+S1765,"C++, JavaScript",Social Impact,Part-time,Creative,Chatbot for Students
+S1766,"Flask, Figma, Python",Social Impact,Part-time,Technical,E-learning Gamification Platform
+S1767,"C++, Figma, Keras",Cybersecurity,Part-time,Research,Automated Resume Screener
+S1768,"React, Java",Finance,Part-time,Technical,Mental Health UI Toolkit
+S1769,"Figma, AI, React",Automation,Full-time,Technical,Automated Resume Screener
+S1770,"Python, C++, TensorFlow, Keras",Automation,Part-time,Technical,AI-powered Diet Planner
+S1771,"React, Flask, C++",Finance,Part-time,Technical,Smart Attendance System
+S1772,"AI, ML",Automation,Full-time,Technical,Blockchain Voting System
+S1773,"Flask, C++, NodeJS, Python",Climate,Part-time,Research,Voice-based Email Client
+S1774,"Keras, Figma, Flask",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1775,"JavaScript, Keras",Education,Full-time,Technical,E-learning Gamification Platform
+S1776,"Java, ML, Python, C++",Cybersecurity,Full-time,Creative,Voice-based Email Client
+S1777,"Django, Java, NodeJS, React",Education,Part-time,Creative,AI-powered Diet Planner
+S1778,"TensorFlow, Flask",Climate,Part-time,Creative,E-learning Gamification Platform
+S1779,"AI, Java, Django, Python",Social Impact,Part-time,Creative,Voice-based Email Client
+S1780,"NodeJS, Python, JavaScript",Climate,Part-time,Technical,AI-powered Diet Planner
+S1781,"C++, ML, Figma, Flask",Finance,Part-time,Technical,Finance Tracker Web App
+S1782,"ML, Java, JavaScript, Figma",Social Impact,Part-time,Creative,Voice-based Email Client
+S1783,"AI, Keras",Social Impact,Full-time,Technical,Smart Attendance System
+S1784,"Keras, Java, React, TensorFlow",Climate,Full-time,Research,Mental Health UI Toolkit
+S1785,"AI, NodeJS",Healthcare,Full-time,Research,Finance Tracker Web App
+S1786,"AI, TensorFlow, Java",Healthcare,Full-time,Research,Finance Tracker Web App
+S1787,"Java, TensorFlow",Healthcare,Full-time,Creative,Blockchain Voting System
+S1788,"JavaScript, ML, Flask, Keras",Automation,Full-time,Creative,E-learning Gamification Platform
+S1789,"React, Keras, Flask",Climate,Part-time,Research,Automated Resume Screener
+S1790,"TensorFlow, NodeJS, Java",Cybersecurity,Full-time,Research,Blockchain Voting System
+S1791,"TensorFlow, Java, JavaScript",Healthcare,Full-time,Technical,Smart Attendance System
+S1792,"AI, Keras, ML, Python",Finance,Full-time,Technical,Automated Resume Screener
+S1793,"Java, React, Flask, AI",Automation,Part-time,Research,Automated Resume Screener
+S1794,"React, Figma, C++, Python",Social Impact,Part-time,Technical,AI-powered Diet Planner
+S1795,"AI, React, TensorFlow, C++",Social Impact,Full-time,Creative,Smart Attendance System
+S1796,"Django, ML, React",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1797,"NodeJS, C++, Figma",Climate,Part-time,Creative,E-learning Gamification Platform
+S1798,"NodeJS, AI, TensorFlow",Automation,Part-time,Research,E-learning Gamification Platform
+S1799,"Flask, C++",Healthcare,Part-time,Technical,Mental Health UI Toolkit
+S1800,"JavaScript, Figma",Social Impact,Full-time,Research,Smart Attendance System
+S1801,"React, NodeJS, Java, Django",Finance,Part-time,Technical,Mental Health UI Toolkit
+S1802,"TensorFlow, Java, React, Figma",Healthcare,Part-time,Research,AI-powered Diet Planner
+S1803,"Django, Flask, Python",Climate,Part-time,Creative,Mental Health UI Toolkit
+S1804,"JavaScript, React, ML",Social Impact,Part-time,Creative,Voice-based Email Client
+S1805,"Figma, AI, TensorFlow, JavaScript",Social Impact,Part-time,Research,Blockchain Voting System
+S1806,"ML, NodeJS",Healthcare,Part-time,Technical,Chatbot for Students
+S1807,"ML, Java, NodeJS, TensorFlow",Climate,Full-time,Research,Chatbot for Students
+S1808,"ML, React, Django, TensorFlow",Climate,Full-time,Technical,Finance Tracker Web App
+S1809,"Figma, React, Java",Healthcare,Full-time,Technical,AI-powered Diet Planner
+S1810,"Python, NodeJS",Social Impact,Full-time,Research,E-learning Gamification Platform
+S1811,"JavaScript, Python, TensorFlow",Finance,Full-time,Creative,Chatbot for Students
+S1812,"TensorFlow, Python",Automation,Full-time,Research,Voice-based Email Client
+S1813,"AI, Figma, Django",Automation,Full-time,Technical,Voice-based Email Client
+S1814,"React, Java, ML, Flask",Healthcare,Part-time,Technical,Blockchain Voting System
+S1815,"Django, NodeJS, Python",Education,Full-time,Research,Blockchain Voting System
+S1816,"Python, Flask, Java",Finance,Full-time,Research,E-learning Gamification Platform
+S1817,"React, Python, C++",Climate,Part-time,Research,Mental Health UI Toolkit
+S1818,"NodeJS, Django",Automation,Part-time,Technical,Finance Tracker Web App
+S1819,"AI, Python, Django, C++",Climate,Full-time,Creative,Automated Resume Screener
+S1820,"TensorFlow, AI, Java",Climate,Part-time,Research,Voice-based Email Client
+S1821,"Keras, Django, C++",Healthcare,Part-time,Technical,AI-powered Diet Planner
+S1822,"Keras, AI, NodeJS",Climate,Full-time,Research,Chatbot for Students
+S1823,"Keras, Django, JavaScript",Climate,Part-time,Technical,Voice-based Email Client
+S1824,"AI, Keras, C++, Flask",Education,Part-time,Technical,Smart Attendance System
+S1825,"ML, Figma, React, Django",Education,Full-time,Research,Mental Health UI Toolkit
+S1826,"Flask, Keras, React, C++",Climate,Full-time,Technical,Smart Attendance System
+S1827,"JavaScript, TensorFlow, Python, Java",Climate,Full-time,Research,Chatbot for Students
+S1828,"C++, Python, Java",Cybersecurity,Part-time,Creative,Blockchain Voting System
+S1829,"Python, Flask, React",Automation,Part-time,Technical,Chatbot for Students
+S1830,"AI, Python",Education,Full-time,Technical,E-learning Gamification Platform
+S1831,"JavaScript, Flask, Figma",Cybersecurity,Part-time,Research,Finance Tracker Web App
+S1832,"Flask, NodeJS, TensorFlow, C++",Healthcare,Full-time,Technical,Chatbot for Students
+S1833,"Keras, React, ML",Automation,Part-time,Creative,Smart Attendance System
+S1834,"JavaScript, Python, NodeJS, Keras",Healthcare,Part-time,Creative,Mental Health UI Toolkit
+S1835,"Figma, ML, AI, C++",Cybersecurity,Part-time,Technical,Chatbot for Students
+S1836,"React, C++, ML",Climate,Full-time,Creative,Voice-based Email Client
+S1837,"NodeJS, TensorFlow",Climate,Part-time,Creative,Smart Attendance System
+S1838,"TensorFlow, Flask, ML",Social Impact,Part-time,Creative,Finance Tracker Web App
+S1839,"JavaScript, Django, Figma, AI",Finance,Full-time,Technical,Smart Attendance System
+S1840,"NodeJS, Keras, React, TensorFlow",Social Impact,Part-time,Technical,Automated Resume Screener
+S1841,"Figma, Python, Java",Healthcare,Full-time,Technical,Smart Attendance System
+S1842,"TensorFlow, Python",Climate,Part-time,Creative,Smart Attendance System
+S1843,"JavaScript, ML",Education,Part-time,Creative,AI-powered Diet Planner
+S1844,"React, AI, Java",Automation,Part-time,Creative,Blockchain Voting System
+S1845,"Flask, Django, ML, C++",Education,Part-time,Creative,E-learning Gamification Platform
+S1846,"Flask, Keras, AI",Social Impact,Full-time,Technical,Voice-based Email Client
+S1847,"Java, ML, JavaScript",Healthcare,Part-time,Research,Automated Resume Screener
+S1848,"Flask, React",Finance,Full-time,Creative,E-learning Gamification Platform
+S1849,"React, JavaScript, ML, Python",Climate,Full-time,Research,Smart Attendance System
+S1850,"TensorFlow, NodeJS",Climate,Part-time,Creative,AI-powered Diet Planner
+S1851,"C++, React",Education,Full-time,Creative,Chatbot for Students
+S1852,"C++, Django, Figma, ML",Cybersecurity,Part-time,Technical,Automated Resume Screener
+S1853,"Django, TensorFlow, Flask",Climate,Full-time,Creative,Finance Tracker Web App
+S1854,"C++, NodeJS, Figma, Keras",Automation,Part-time,Technical,Automated Resume Screener
+S1855,"TensorFlow, NodeJS",Social Impact,Part-time,Creative,Blockchain Voting System
+S1856,"React, C++, Python, NodeJS",Social Impact,Full-time,Creative,AI-powered Diet Planner
+S1857,"Flask, JavaScript, TensorFlow",Finance,Full-time,Creative,Blockchain Voting System
+S1858,"Django, JavaScript, Python, Keras",Automation,Full-time,Research,Voice-based Email Client
+S1859,"AI, Django",Automation,Full-time,Research,AI-powered Diet Planner
+S1860,"Python, JavaScript, C++, Java",Healthcare,Full-time,Creative,Chatbot for Students
+S1861,"ML, Flask, React",Finance,Full-time,Creative,Blockchain Voting System
+S1862,"Python, AI, TensorFlow, JavaScript",Climate,Part-time,Research,Voice-based Email Client
+S1863,"Java, JavaScript",Healthcare,Part-time,Creative,Voice-based Email Client
+S1864,"React, Flask",Social Impact,Part-time,Technical,Finance Tracker Web App
+S1865,"Keras, JavaScript, Python, React",Social Impact,Full-time,Research,E-learning Gamification Platform
+S1866,"Java, Python, C++, Flask",Automation,Full-time,Creative,Blockchain Voting System
+S1867,"C++, Django",Automation,Full-time,Creative,Smart Attendance System
+S1868,"ML, Figma",Social Impact,Full-time,Research,E-learning Gamification Platform
+S1869,"React, C++",Healthcare,Part-time,Technical,Mental Health UI Toolkit
+S1870,"Python, Keras, TensorFlow, Django",Cybersecurity,Full-time,Technical,Mental Health UI Toolkit
+S1871,"C++, Django, Keras",Healthcare,Part-time,Creative,Mental Health UI Toolkit
+S1872,"Java, Figma, ML",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S1873,"Java, React, Flask",Healthcare,Part-time,Research,Chatbot for Students
+S1874,"Django, Flask, NodeJS, C++",Climate,Part-time,Technical,Automated Resume Screener
+S1875,"TensorFlow, NodeJS",Automation,Part-time,Technical,Smart Attendance System
+S1876,"C++, React, AI",Healthcare,Full-time,Creative,Voice-based Email Client
+S1877,"TensorFlow, React",Social Impact,Full-time,Research,Automated Resume Screener
+S1878,"Java, React, Figma",Healthcare,Full-time,Creative,Finance Tracker Web App
+S1879,"C++, TensorFlow",Climate,Part-time,Technical,E-learning Gamification Platform
+S1880,"AI, ML, Django, TensorFlow",Climate,Part-time,Technical,Blockchain Voting System
+S1881,"Java, NodeJS, ML",Cybersecurity,Full-time,Research,Chatbot for Students
+S1882,"Figma, Django, React",Social Impact,Part-time,Technical,AI-powered Diet Planner
+S1883,"AI, Flask, TensorFlow, JavaScript",Education,Part-time,Research,Blockchain Voting System
+S1884,"AI, C++, ML, TensorFlow",Education,Full-time,Research,Automated Resume Screener
+S1885,"JavaScript, NodeJS, Keras",Finance,Part-time,Technical,Voice-based Email Client
+S1886,"C++, Flask",Automation,Part-time,Technical,Smart Attendance System
+S1887,"NodeJS, Java",Climate,Full-time,Technical,Voice-based Email Client
+S1888,"ML, React",Education,Full-time,Technical,Voice-based Email Client
+S1889,"Django, NodeJS",Automation,Full-time,Research,Mental Health UI Toolkit
+S1890,"React, Java, Figma, C++",Climate,Part-time,Creative,AI-powered Diet Planner
+S1891,"Figma, React",Climate,Part-time,Technical,Finance Tracker Web App
+S1892,"C++, Flask",Climate,Part-time,Creative,Mental Health UI Toolkit
+S1893,"Django, AI, Figma, ML",Climate,Full-time,Technical,Mental Health UI Toolkit
+S1894,"AI, React",Social Impact,Part-time,Research,Smart Attendance System
+S1895,"Java, C++, ML",Education,Full-time,Creative,E-learning Gamification Platform
+S1896,"Figma, C++, Django",Healthcare,Part-time,Technical,Blockchain Voting System
+S1897,"ML, Flask, C++",Social Impact,Part-time,Technical,Voice-based Email Client
+S1898,"React, Django, Keras, Figma",Social Impact,Part-time,Research,Blockchain Voting System
+S1899,"React, ML, TensorFlow, JavaScript",Finance,Full-time,Technical,E-learning Gamification Platform
+S1900,"Java, React, Django",Education,Part-time,Research,Smart Attendance System
+S1901,"JavaScript, AI, TensorFlow",Finance,Part-time,Technical,Smart Attendance System
+S1902,"Python, ML",Automation,Part-time,Technical,Chatbot for Students
+S1903,"React, Figma, NodeJS",Social Impact,Part-time,Creative,Blockchain Voting System
+S1904,"NodeJS, ML, JavaScript, React",Finance,Part-time,Creative,Voice-based Email Client
+S1905,"ML, Flask, AI",Automation,Full-time,Technical,Voice-based Email Client
+S1906,"Keras, JavaScript, React",Healthcare,Part-time,Research,AI-powered Diet Planner
+S1907,"Python, ML, Figma",Healthcare,Part-time,Creative,Smart Attendance System
+S1908,"Python, React, Figma",Finance,Full-time,Technical,Finance Tracker Web App
+S1909,"TensorFlow, Django, Figma, ML",Climate,Full-time,Creative,Finance Tracker Web App
+S1910,"JavaScript, Java, React, Keras",Social Impact,Part-time,Creative,Smart Attendance System
+S1911,"Figma, Java",Finance,Part-time,Creative,Smart Attendance System
+S1912,"AI, Django, Figma",Finance,Part-time,Creative,Finance Tracker Web App
+S1913,"JavaScript, C++, AI, ML",Climate,Full-time,Technical,Blockchain Voting System
+S1914,"Keras, TensorFlow",Finance,Part-time,Research,Voice-based Email Client
+S1915,"Keras, Figma",Social Impact,Full-time,Creative,Blockchain Voting System
+S1916,"C++, Django, Java, JavaScript",Healthcare,Full-time,Technical,Automated Resume Screener
+S1917,"Keras, Java",Education,Full-time,Technical,E-learning Gamification Platform
+S1918,"TensorFlow, C++, Django, Keras",Finance,Full-time,Creative,E-learning Gamification Platform
+S1919,"C++, Figma",Social Impact,Part-time,Technical,Smart Attendance System
+S1920,"Flask, Django, C++",Climate,Full-time,Creative,AI-powered Diet Planner
+S1921,"ML, React, Flask, TensorFlow",Finance,Full-time,Creative,Blockchain Voting System
+S1922,"ML, Django, AI",Education,Part-time,Creative,Automated Resume Screener
+S1923,"React, Django, C++, Figma",Social Impact,Part-time,Creative,Chatbot for Students
+S1924,"Keras, TensorFlow, JavaScript",Finance,Full-time,Research,E-learning Gamification Platform
+S1925,"React, C++, Java, Flask",Finance,Part-time,Research,Automated Resume Screener
+S1926,"Flask, TensorFlow",Social Impact,Part-time,Research,AI-powered Diet Planner
+S1927,"AI, NodeJS",Automation,Part-time,Technical,Mental Health UI Toolkit
+S1928,"Keras, NodeJS, ML, Flask",Automation,Full-time,Research,Mental Health UI Toolkit
+S1929,"Figma, Flask",Finance,Full-time,Research,Smart Attendance System
+S1930,"Flask, Python, AI",Social Impact,Part-time,Technical,Voice-based Email Client
+S1931,"Flask, Figma, AI, C++",Social Impact,Part-time,Technical,Smart Attendance System
+S1932,"TensorFlow, Django, Java",Education,Full-time,Research,Chatbot for Students
+S1933,"NodeJS, Figma, TensorFlow, React",Finance,Full-time,Creative,Voice-based Email Client
+S1934,"Java, Flask, C++, Figma",Finance,Part-time,Technical,Voice-based Email Client
+S1935,"Django, Java, Figma",Social Impact,Full-time,Technical,E-learning Gamification Platform
+S1936,"Keras, Python, C++, JavaScript",Cybersecurity,Part-time,Technical,Mental Health UI Toolkit
+S1937,"AI, TensorFlow, Java, React",Education,Full-time,Technical,Voice-based Email Client
+S1938,"TensorFlow, JavaScript",Social Impact,Full-time,Creative,Chatbot for Students
+S1939,"Keras, AI, Python, React",Automation,Part-time,Research,Smart Attendance System
+S1940,"Java, NodeJS, Keras, TensorFlow",Education,Full-time,Creative,Chatbot for Students
+S1941,"Python, Django, Figma, NodeJS",Healthcare,Full-time,Technical,Voice-based Email Client
+S1942,"Figma, TensorFlow, React",Education,Part-time,Technical,Voice-based Email Client
+S1943,"JavaScript, Java",Automation,Full-time,Technical,E-learning Gamification Platform
+S1944,"TensorFlow, Django, Flask",Education,Full-time,Technical,Chatbot for Students
+S1945,"C++, TensorFlow, JavaScript",Education,Part-time,Creative,Finance Tracker Web App
+S1946,"C++, Java, JavaScript, NodeJS",Cybersecurity,Full-time,Technical,Voice-based Email Client
+S1947,"JavaScript, React",Healthcare,Part-time,Technical,Chatbot for Students
+S1948,"Figma, Django, NodeJS, Flask",Climate,Full-time,Research,Voice-based Email Client
+S1949,"Java, AI, Figma, Python",Cybersecurity,Part-time,Research,Smart Attendance System
+S1950,"NodeJS, JavaScript, Python",Automation,Full-time,Research,Automated Resume Screener
+S1951,"Java, NodeJS, Keras, JavaScript",Healthcare,Part-time,Creative,Smart Attendance System
+S1952,"Java, TensorFlow",Climate,Full-time,Research,E-learning Gamification Platform
+S1953,"AI, TensorFlow, Flask",Cybersecurity,Full-time,Creative,Blockchain Voting System
+S1954,"Java, Flask",Automation,Part-time,Creative,Chatbot for Students
+S1955,"Flask, ML",Healthcare,Full-time,Research,Voice-based Email Client
+S1956,"Python, JavaScript",Cybersecurity,Full-time,Research,Finance Tracker Web App
+S1957,"Python, Figma, JavaScript, Keras",Social Impact,Part-time,Creative,Chatbot for Students
+S1958,"AI, Django, React, ML",Finance,Part-time,Creative,AI-powered Diet Planner
+S1959,"JavaScript, Flask, Java",Social Impact,Part-time,Technical,Automated Resume Screener
+S1960,"Django, React, NodeJS",Healthcare,Full-time,Research,Chatbot for Students
+S1961,"C++, TensorFlow, Figma, AI",Climate,Part-time,Technical,Mental Health UI Toolkit
+S1962,"C++, TensorFlow",Climate,Full-time,Creative,Voice-based Email Client
+S1963,"Flask, NodeJS, ML",Climate,Full-time,Technical,AI-powered Diet Planner
+S1964,"JavaScript, Java, Django, C++",Social Impact,Full-time,Creative,Mental Health UI Toolkit
+S1965,"React, JavaScript",Healthcare,Part-time,Research,E-learning Gamification Platform
+S1966,"NodeJS, Django",Cybersecurity,Part-time,Technical,Voice-based Email Client
+S1967,"Flask, C++",Automation,Full-time,Creative,Mental Health UI Toolkit
+S1968,"TensorFlow, Java, Django",Cybersecurity,Part-time,Creative,AI-powered Diet Planner
+S1969,"Python, Django, C++, Keras",Automation,Part-time,Technical,Chatbot for Students
+S1970,"Flask, NodeJS, AI",Automation,Full-time,Creative,AI-powered Diet Planner
+S1971,"C++, React",Automation,Part-time,Creative,Voice-based Email Client
+S1972,"TensorFlow, NodeJS",Healthcare,Part-time,Research,AI-powered Diet Planner
+S1973,"AI, C++, Keras, TensorFlow",Education,Full-time,Research,Smart Attendance System
+S1974,"Python, Figma, C++",Climate,Full-time,Technical,Automated Resume Screener
+S1975,"Java, Keras, NodeJS",Automation,Full-time,Research,Blockchain Voting System
+S1976,"Keras, ML",Social Impact,Part-time,Technical,Blockchain Voting System
+S1977,"Django, JavaScript",Cybersecurity,Part-time,Creative,Mental Health UI Toolkit
+S1978,"Python, ML",Finance,Part-time,Technical,Smart Attendance System
+S1979,"TensorFlow, ML",Cybersecurity,Full-time,Creative,Chatbot for Students
+S1980,"JavaScript, Django, C++",Climate,Part-time,Technical,Automated Resume Screener
+S1981,"JavaScript, NodeJS, C++",Climate,Full-time,Creative,Smart Attendance System
+S1982,"Java, AI",Automation,Part-time,Creative,AI-powered Diet Planner
+S1983,"ML, AI, Django",Climate,Part-time,Research,Blockchain Voting System
+S1984,"NodeJS, C++, TensorFlow",Education,Part-time,Research,Chatbot for Students
+S1985,"ML, JavaScript, Python",Climate,Part-time,Technical,Finance Tracker Web App
+S1986,"Java, Figma, Flask, TensorFlow",Finance,Full-time,Technical,Blockchain Voting System
+S1987,"Java, React, JavaScript, TensorFlow",Finance,Part-time,Technical,Blockchain Voting System
+S1988,"JavaScript, Python",Climate,Part-time,Research,Chatbot for Students
+S1989,"Figma, Django, ML",Social Impact,Full-time,Research,Blockchain Voting System
+S1990,"C++, ML, Java",Climate,Full-time,Technical,Voice-based Email Client
+S1991,"Figma, Keras",Automation,Full-time,Technical,Mental Health UI Toolkit
+S1992,"Java, Keras, TensorFlow, Figma",Social Impact,Full-time,Research,Blockchain Voting System
+S1993,"React, Keras",Healthcare,Full-time,Research,Automated Resume Screener
+S1994,"Figma, Flask, C++, NodeJS",Education,Part-time,Research,AI-powered Diet Planner
+S1995,"TensorFlow, ML, Java, JavaScript",Climate,Part-time,Technical,E-learning Gamification Platform
+S1996,"Python, AI, ML",Education,Full-time,Research,Voice-based Email Client
+S1997,"Keras, C++, AI",Social Impact,Part-time,Technical,AI-powered Diet Planner
+S1998,"Flask, NodeJS",Social Impact,Part-time,Technical,Blockchain Voting System
+S1999,"JavaScript, Keras, AI",Cybersecurity,Full-time,Research,Chatbot for Students
+S2000,"Django, React",Finance,Full-time,Technical,Smart Attendance System
