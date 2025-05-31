@@ -1,10 +1,13 @@
 from pymongo import MongoClient
+from dotenv import load_dotenv
+import os
 
-client = MongoClient("mongodb://localhost:27017/")
+mongo_uri = os.getenv('MONGO_URI')
+client = MongoClient(mongo_uri)
 db = client["talentpathDB"]
 collection = db["recommendations"]
 
-def save_user_data(user_data: dict, recommended_projects: list):
+def save_recommendation(user_data: dict, recommended_projects: list):
     document = {
         **user_data,
         "recommended_projects": recommended_projects
