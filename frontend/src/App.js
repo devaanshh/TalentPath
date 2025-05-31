@@ -1,18 +1,16 @@
-import React, { useState } from "react";
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import WelcomePage from "./components/WelcomePage";
 import RecommendationForm from "./components/RecommendationForm";
 
 function App() {
-  const [showWelcome, setShowWelcome] = useState(true);
-
   return (
-    <div className="App">
-      {showWelcome ? (
-        <WelcomePage onNext={() => setShowWelcome(false)} />
-      ) : (
-        <RecommendationForm />
-      )}
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<WelcomePage />} />
+        <Route path="/recommend" element={<RecommendationForm />} />
+      </Routes>
+    </Router>
   );
 }
 
