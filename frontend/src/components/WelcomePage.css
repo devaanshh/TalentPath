@@ -1,0 +1,49 @@
+.welcome-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #e0f7fa, #ffffff);
+  animation: fadeIn 1.5s ease-in;
+}
+
+.welcome-title {
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.next-button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  transition: transform 0.2s ease, background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.next-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.next-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.4);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
