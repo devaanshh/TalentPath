@@ -1,10 +1,10 @@
-# TalentPath – Smart Project Recommender
+# **TalentPath – Smart Project Recommender**
 
 TalentPath is a student project recommendation platform. It assists in recommending users with appropriate projects based on their Skills, Interests, Availability, and Preferred Project type through a Semantic Similarity model.
 
 ---
 
-## Features
+## **Features**
 
 - Multi-select skills input
 - Type of Interest, Availability, and Project Type
@@ -15,7 +15,7 @@ TalentPath is a student project recommendation platform. It assists in recommend
 
 ---
 
-## Project Structure
+## **Project Structure**
 
 ```
 
@@ -54,14 +54,14 @@ TalentPath/
 
 ---
 
-## Prerequisites
+## **Prerequisites**
 
 - Docker and Docker Compose installed.
 - Ports `3000`, `8000`, and `27017` available on your system.
 
 ---
 
-## Quick Start (Plug-and-Play)
+## **Quick Start (Plug-and-Play)**
 
 ### 1. Clone the Repository
 
@@ -70,7 +70,7 @@ git clone https://github.com/your-username/TalentPath.git
 cd TalentPath
 ````
 
-### 2. Create a `.env` File
+### 2. Create Environment Variable
 
 Create a `.env` file in the **root** directory with:
 
@@ -91,22 +91,49 @@ Access:
 
 ---
 
-## Usage
+## **User Manual**
 
-1. Open `http://localhost:3000`
-2. Click **Next** on the Welcome Screen.
-3. Fill in:
+### **Step 1**: Open the App
+Visit: http://localhost:3000
 
-   * **Skills** (multi-select)
-   * **Interest** (single select)
-   * **Availability** (single select)
-   * **Preferred Project Type** (single select)
-4. Click **Get Recommendations**
-5. View your personalized project list!
+### **Step 2**: Get Started
+Click Next on the Welcome screen.
+
+Enter your details:
+
+* **Skills** – select multiple.
+
+* **Interest** – choose one.
+
+* **Availability** – choose one.
+
+* **Preferred Project Type** – choose one.
+
+Click Get Recommendations.
+
+### **Step 3**: View Results
+Your recommended projects will appear in styled boxes based on your inputs.
+
 
 ---
 
-## Clean Up
+## **How It Works**
+TalentPath uses TF-IDF Vectorization and Cosine Similarity to semantically match your inputs against the projects in MongoDB. It finds the best matches and gives you the most suited project suggestions.
+
+---
+
+## **Troubleshooting**
+
+| Issue                  | Solution                                             |
+|------------------------|------------------------------------------------------|
+| Ports already in use   | Change them in `docker-compose.yml`                 |
+| Mongo connection error | Ensure `.env` has correct `MONGO_URI`               |
+| App not loading        | Check `docker-compose` logs for errors              |
+| Model not loading      | Ensure `.pkl` files are in `backend/models/`        |
+
+---
+
+## **Clean Up**
 
 To stop all services:
 
@@ -122,7 +149,7 @@ docker-compose down -v
 
 ---
 
-## Developer Notes
+## **Developer Notes**
 
 * Code changes reflect automatically due to Docker volume mounting.
 * Backend must contain `main.py` with `app = FastAPI(...)`.
@@ -130,4 +157,4 @@ docker-compose down -v
 
 ---
 
-## Enjoy using TalentPath!
+# **Enjoy using TalentPath!**
