@@ -81,3 +81,4 @@ uploads/
 # ----------------------------
 # !backend/models/final_model.h5
 # !notebooks/important_experiment.ipynb
+*node_modules
